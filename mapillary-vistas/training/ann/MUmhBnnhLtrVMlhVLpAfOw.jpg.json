@@ -1,0 +1,2375 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2448,
+        "width": 3264
+    },
+    "objects": [
+        {
+            "id": 71997047,
+            "classId": 6479299,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.393Z",
+            "updatedAt": "2023-10-12T12:02:58.393Z",
+            "tags": [
+                {
+                    "id": 39380382,
+                    "tagId": 22880,
+                    "name": "nature",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.393Z",
+                    "updatedAt": "2023-10-12T12:02:58.393Z"
+                }
+            ],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1275
+                    ],
+                    [
+                        3263,
+                        1340
+                    ],
+                    [
+                        3263,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997046,
+            "classId": 6479259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.392Z",
+            "updatedAt": "2023-10-12T12:02:58.392Z",
+            "tags": [
+                {
+                    "id": 39380380,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.392Z",
+                    "updatedAt": "2023-10-12T12:02:58.392Z"
+                },
+                {
+                    "id": 39380381,
+                    "tagId": 22868,
+                    "name": "flat",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.392Z",
+                    "updatedAt": "2023-10-12T12:02:58.392Z"
+                }
+            ],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1235
+                    ],
+                    [
+                        842,
+                        1117
+                    ],
+                    [
+                        1141,
+                        1117
+                    ],
+                    [
+                        3263,
+                        1284
+                    ],
+                    [
+                        3263,
+                        2447
+                    ],
+                    [
+                        0,
+                        2447
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997045,
+            "classId": 6479303,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.391Z",
+            "updatedAt": "2023-10-12T12:02:58.391Z",
+            "tags": [
+                {
+                    "id": 39380379,
+                    "tagId": 22880,
+                    "name": "nature",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.391Z",
+                    "updatedAt": "2023-10-12T12:02:58.391Z"
+                }
+            ],
+            "classTitle": "water",
+            "points": {
+                "exterior": [
+                    [
+                        2178,
+                        1454
+                    ],
+                    [
+                        2477,
+                        1481
+                    ],
+                    [
+                        2515,
+                        1572
+                    ],
+                    [
+                        2402,
+                        1599
+                    ],
+                    [
+                        2221,
+                        1575
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997044,
+            "classId": 6479302,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.390Z",
+            "updatedAt": "2023-10-12T12:02:58.390Z",
+            "tags": [
+                {
+                    "id": 39380378,
+                    "tagId": 22880,
+                    "name": "nature",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.389Z",
+                    "updatedAt": "2023-10-12T12:02:58.389Z"
+                }
+            ],
+            "classTitle": "vegetation",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        411
+                    ],
+                    [
+                        34,
+                        420
+                    ],
+                    [
+                        69,
+                        415
+                    ],
+                    [
+                        135,
+                        401
+                    ],
+                    [
+                        178,
+                        392
+                    ],
+                    [
+                        243,
+                        411
+                    ],
+                    [
+                        276,
+                        383
+                    ],
+                    [
+                        370,
+                        402
+                    ],
+                    [
+                        403,
+                        406
+                    ],
+                    [
+                        469,
+                        382
+                    ],
+                    [
+                        558,
+                        406
+                    ],
+                    [
+                        606,
+                        392
+                    ],
+                    [
+                        688,
+                        383
+                    ],
+                    [
+                        747,
+                        401
+                    ],
+                    [
+                        787,
+                        418
+                    ],
+                    [
+                        890,
+                        430
+                    ],
+                    [
+                        935,
+                        397
+                    ],
+                    [
+                        1041,
+                        362
+                    ],
+                    [
+                        1145,
+                        361
+                    ],
+                    [
+                        1285,
+                        366
+                    ],
+                    [
+                        1391,
+                        395
+                    ],
+                    [
+                        1493,
+                        444
+                    ],
+                    [
+                        1575,
+                        477
+                    ],
+                    [
+                        1660,
+                        502
+                    ],
+                    [
+                        1730,
+                        528
+                    ],
+                    [
+                        1787,
+                        555
+                    ],
+                    [
+                        1838,
+                        543
+                    ],
+                    [
+                        1871,
+                        592
+                    ],
+                    [
+                        1907,
+                        608
+                    ],
+                    [
+                        2029,
+                        632
+                    ],
+                    [
+                        2048,
+                        658
+                    ],
+                    [
+                        2065,
+                        625
+                    ],
+                    [
+                        2109,
+                        634
+                    ],
+                    [
+                        2182,
+                        641
+                    ],
+                    [
+                        2247,
+                        656
+                    ],
+                    [
+                        2276,
+                        666
+                    ],
+                    [
+                        2318,
+                        663
+                    ],
+                    [
+                        2372,
+                        656
+                    ],
+                    [
+                        2395,
+                        668
+                    ],
+                    [
+                        2451,
+                        678
+                    ],
+                    [
+                        2556,
+                        655
+                    ],
+                    [
+                        2664,
+                        640
+                    ],
+                    [
+                        2690,
+                        622
+                    ],
+                    [
+                        2770,
+                        604
+                    ],
+                    [
+                        2916,
+                        575
+                    ],
+                    [
+                        2977,
+                        573
+                    ],
+                    [
+                        3010,
+                        571
+                    ],
+                    [
+                        3090,
+                        597
+                    ],
+                    [
+                        3090,
+                        597
+                    ],
+                    [
+                        3196,
+                        622
+                    ],
+                    [
+                        3263,
+                        641
+                    ],
+                    [
+                        3263,
+                        1960
+                    ],
+                    [
+                        2558,
+                        1737
+                    ],
+                    [
+                        2259,
+                        1588
+                    ],
+                    [
+                        2248,
+                        1553
+                    ],
+                    [
+                        2337,
+                        1555
+                    ],
+                    [
+                        2370,
+                        1569
+                    ],
+                    [
+                        2436,
+                        1577
+                    ],
+                    [
+                        2500,
+                        1556
+                    ],
+                    [
+                        2507,
+                        1516
+                    ],
+                    [
+                        2258,
+                        1390
+                    ],
+                    [
+                        1420,
+                        1197
+                    ],
+                    [
+                        1319,
+                        1171
+                    ],
+                    [
+                        1028,
+                        1179
+                    ],
+                    [
+                        903,
+                        1176
+                    ],
+                    [
+                        634,
+                        1061
+                    ],
+                    [
+                        0,
+                        915
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997043,
+            "classId": 6479265,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.388Z",
+            "updatedAt": "2023-10-12T12:02:58.388Z",
+            "tags": [
+                {
+                    "id": 39380376,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.388Z",
+                    "updatedAt": "2023-10-12T12:02:58.388Z"
+                },
+                {
+                    "id": 39380377,
+                    "tagId": 22869,
+                    "name": "structure",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.388Z",
+                    "updatedAt": "2023-10-12T12:02:58.388Z"
+                }
+            ],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        1346,
+                        1087
+                    ],
+                    [
+                        1474,
+                        1094
+                    ],
+                    [
+                        1532,
+                        1092
+                    ],
+                    [
+                        1533,
+                        1081
+                    ],
+                    [
+                        1645,
+                        1086
+                    ],
+                    [
+                        1764,
+                        1093
+                    ],
+                    [
+                        1764,
+                        1121
+                    ],
+                    [
+                        1710,
+                        1124
+                    ],
+                    [
+                        1702,
+                        1146
+                    ],
+                    [
+                        1701,
+                        1180
+                    ],
+                    [
+                        1566,
+                        1184
+                    ],
+                    [
+                        1536,
+                        1180
+                    ],
+                    [
+                        1513,
+                        1132
+                    ],
+                    [
+                        1477,
+                        1118
+                    ],
+                    [
+                        1451,
+                        1127
+                    ],
+                    [
+                        1417,
+                        1129
+                    ],
+                    [
+                        1386,
+                        1128
+                    ],
+                    [
+                        1351,
+                        1128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997042,
+            "classId": 6479265,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.387Z",
+            "updatedAt": "2023-10-12T12:02:58.387Z",
+            "tags": [
+                {
+                    "id": 39380374,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.387Z",
+                    "updatedAt": "2023-10-12T12:02:58.387Z"
+                },
+                {
+                    "id": 39380375,
+                    "tagId": 22869,
+                    "name": "structure",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.387Z",
+                    "updatedAt": "2023-10-12T12:02:58.387Z"
+                }
+            ],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        2208,
+                        1098
+                    ],
+                    [
+                        2345,
+                        1103
+                    ],
+                    [
+                        2353,
+                        1095
+                    ],
+                    [
+                        2387,
+                        1089
+                    ],
+                    [
+                        2400,
+                        1091
+                    ],
+                    [
+                        2409,
+                        1102
+                    ],
+                    [
+                        2414,
+                        1142
+                    ],
+                    [
+                        2224,
+                        1133
+                    ],
+                    [
+                        2151,
+                        1136
+                    ],
+                    [
+                        2137,
+                        1122
+                    ],
+                    [
+                        2158,
+                        1108
+                    ],
+                    [
+                        2183,
+                        1110
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997041,
+            "classId": 6479265,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.387Z",
+            "updatedAt": "2023-10-12T12:02:58.387Z",
+            "tags": [
+                {
+                    "id": 39380372,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.387Z",
+                    "updatedAt": "2023-10-12T12:02:58.387Z"
+                },
+                {
+                    "id": 39380373,
+                    "tagId": 22869,
+                    "name": "structure",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.387Z",
+                    "updatedAt": "2023-10-12T12:02:58.387Z"
+                }
+            ],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        614,
+                        1041
+                    ],
+                    [
+                        695,
+                        1045
+                    ],
+                    [
+                        693,
+                        1084
+                    ],
+                    [
+                        610,
+                        1067
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997040,
+            "classId": 6479265,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.386Z",
+            "updatedAt": "2023-10-12T12:02:58.386Z",
+            "tags": [
+                {
+                    "id": 39380370,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.385Z",
+                    "updatedAt": "2023-10-12T12:02:58.385Z"
+                },
+                {
+                    "id": 39380371,
+                    "tagId": 22869,
+                    "name": "structure",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.385Z",
+                    "updatedAt": "2023-10-12T12:02:58.385Z"
+                }
+            ],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        3097,
+                        1046
+                    ],
+                    [
+                        3124,
+                        1047
+                    ],
+                    [
+                        3124,
+                        1087
+                    ],
+                    [
+                        3172,
+                        1092
+                    ],
+                    [
+                        3263,
+                        1097
+                    ],
+                    [
+                        3263,
+                        1285
+                    ],
+                    [
+                        3243,
+                        1285
+                    ],
+                    [
+                        3255,
+                        1261
+                    ],
+                    [
+                        3252,
+                        1236
+                    ],
+                    [
+                        3241,
+                        1195
+                    ],
+                    [
+                        3216,
+                        1164
+                    ],
+                    [
+                        3190,
+                        1135
+                    ],
+                    [
+                        3150,
+                        1129
+                    ],
+                    [
+                        3123,
+                        1108
+                    ],
+                    [
+                        3103,
+                        1090
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997039,
+            "classId": 6479243,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.384Z",
+            "updatedAt": "2023-10-12T12:02:58.384Z",
+            "tags": [
+                {
+                    "id": 39380368,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.384Z",
+                    "updatedAt": "2023-10-12T12:02:58.384Z"
+                },
+                {
+                    "id": 39380369,
+                    "tagId": 22867,
+                    "name": "barrier",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.384Z",
+                    "updatedAt": "2023-10-12T12:02:58.384Z"
+                }
+            ],
+            "classTitle": "fence",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        875
+                    ],
+                    [
+                        701,
+                        1073
+                    ],
+                    [
+                        695,
+                        1171
+                    ],
+                    [
+                        290,
+                        1259
+                    ],
+                    [
+                        0,
+                        1247
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997038,
+            "classId": 6479264,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.383Z",
+            "updatedAt": "2023-10-12T12:02:58.383Z",
+            "tags": [
+                {
+                    "id": 39380366,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.383Z",
+                    "updatedAt": "2023-10-12T12:02:58.383Z"
+                },
+                {
+                    "id": 39380367,
+                    "tagId": 22869,
+                    "name": "structure",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.383Z",
+                    "updatedAt": "2023-10-12T12:02:58.383Z"
+                }
+            ],
+            "classTitle": "bridge",
+            "points": {
+                "exterior": [
+                    [
+                        683,
+                        1164
+                    ],
+                    [
+                        704,
+                        961
+                    ],
+                    [
+                        734,
+                        662
+                    ],
+                    [
+                        790,
+                        656
+                    ],
+                    [
+                        1279,
+                        694
+                    ],
+                    [
+                        1318,
+                        706
+                    ],
+                    [
+                        1329,
+                        799
+                    ],
+                    [
+                        1366,
+                        1192
+                    ],
+                    [
+                        1195,
+                        1166
+                    ],
+                    [
+                        1057,
+                        1159
+                    ],
+                    [
+                        1024,
+                        1167
+                    ],
+                    [
+                        1026,
+                        1079
+                    ],
+                    [
+                        1005,
+                        1064
+                    ],
+                    [
+                        986,
+                        1061
+                    ],
+                    [
+                        897,
+                        1059
+                    ],
+                    [
+                        893,
+                        1159
+                    ],
+                    [
+                        846,
+                        1153
+                    ],
+                    [
+                        686,
+                        1177
+                    ],
+                    [
+                        679,
+                        1178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997037,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.381Z",
+            "updatedAt": "2023-10-12T12:02:58.381Z",
+            "tags": [
+                {
+                    "id": 39380364,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.381Z",
+                    "updatedAt": "2023-10-12T12:02:58.381Z"
+                },
+                {
+                    "id": 39380365,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.381Z",
+                    "updatedAt": "2023-10-12T12:02:58.381Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        1004,
+                        1177
+                    ],
+                    [
+                        1008,
+                        1072
+                    ],
+                    [
+                        1013,
+                        1071
+                    ],
+                    [
+                        1011,
+                        1167
+                    ],
+                    [
+                        1012,
+                        1179
+                    ],
+                    [
+                        1004,
+                        1179
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997036,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.380Z",
+            "updatedAt": "2023-10-12T12:02:58.380Z",
+            "tags": [
+                {
+                    "id": 39380362,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.380Z",
+                    "updatedAt": "2023-10-12T12:02:58.380Z"
+                },
+                {
+                    "id": 39380363,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.380Z",
+                    "updatedAt": "2023-10-12T12:02:58.380Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        945,
+                        1160
+                    ],
+                    [
+                        948,
+                        1161
+                    ],
+                    [
+                        949,
+                        1177
+                    ],
+                    [
+                        945,
+                        1177
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997035,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.379Z",
+            "updatedAt": "2023-10-12T12:02:58.379Z",
+            "tags": [
+                {
+                    "id": 39380360,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.379Z",
+                    "updatedAt": "2023-10-12T12:02:58.379Z"
+                },
+                {
+                    "id": 39380361,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.379Z",
+                    "updatedAt": "2023-10-12T12:02:58.379Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        978,
+                        1162
+                    ],
+                    [
+                        982,
+                        1162
+                    ],
+                    [
+                        982,
+                        1178
+                    ],
+                    [
+                        978,
+                        1178
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997034,
+            "classId": 6479316,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.378Z",
+            "updatedAt": "2023-10-12T12:02:58.378Z",
+            "tags": [
+                {
+                    "id": 39380358,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.378Z",
+                    "updatedAt": "2023-10-12T12:02:58.378Z"
+                },
+                {
+                    "id": 39380359,
+                    "tagId": 22882,
+                    "name": "sign",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.378Z",
+                    "updatedAt": "2023-10-12T12:02:58.378Z"
+                }
+            ],
+            "classTitle": "signage - advertisement",
+            "points": {
+                "exterior": [
+                    [
+                        935,
+                        1132
+                    ],
+                    [
+                        996,
+                        1134
+                    ],
+                    [
+                        995,
+                        1164
+                    ],
+                    [
+                        934,
+                        1162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997033,
+            "classId": 6479247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.377Z",
+            "updatedAt": "2023-10-12T12:02:58.377Z",
+            "tags": [
+                {
+                    "id": 39380356,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.377Z",
+                    "updatedAt": "2023-10-12T12:02:58.377Z"
+                },
+                {
+                    "id": 39380357,
+                    "tagId": 22867,
+                    "name": "barrier",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.377Z",
+                    "updatedAt": "2023-10-12T12:02:58.377Z"
+                }
+            ],
+            "classTitle": "road side",
+            "points": {
+                "exterior": [
+                    [
+                        1013,
+                        1162
+                    ],
+                    [
+                        1029,
+                        1161
+                    ],
+                    [
+                        1063,
+                        1155
+                    ],
+                    [
+                        1117,
+                        1153
+                    ],
+                    [
+                        1182,
+                        1159
+                    ],
+                    [
+                        1245,
+                        1166
+                    ],
+                    [
+                        1360,
+                        1183
+                    ],
+                    [
+                        2060,
+                        1292
+                    ],
+                    [
+                        2073,
+                        1297
+                    ],
+                    [
+                        2076,
+                        1555
+                    ],
+                    [
+                        2028,
+                        1576
+                    ],
+                    [
+                        1666,
+                        1437
+                    ],
+                    [
+                        1394,
+                        1315
+                    ],
+                    [
+                        1135,
+                        1209
+                    ],
+                    [
+                        1070,
+                        1188
+                    ],
+                    [
+                        1059,
+                        1186
+                    ],
+                    [
+                        1037,
+                        1183
+                    ],
+                    [
+                        1032,
+                        1183
+                    ],
+                    [
+                        1014,
+                        1183
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997032,
+            "classId": 6479274,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.375Z",
+            "updatedAt": "2023-10-12T12:02:58.375Z",
+            "tags": [
+                {
+                    "id": 39380354,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.375Z",
+                    "updatedAt": "2023-10-12T12:02:58.375Z"
+                },
+                {
+                    "id": 39380355,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.375Z",
+                    "updatedAt": "2023-10-12T12:02:58.375Z"
+                }
+            ],
+            "classTitle": "lane marking - straight line",
+            "points": {
+                "exterior": [
+                    [
+                        1062,
+                        1187
+                    ],
+                    [
+                        1074,
+                        1189
+                    ],
+                    [
+                        1111,
+                        1200
+                    ],
+                    [
+                        1154,
+                        1216
+                    ],
+                    [
+                        1206,
+                        1235
+                    ],
+                    [
+                        1302,
+                        1272
+                    ],
+                    [
+                        1337,
+                        1287
+                    ],
+                    [
+                        1543,
+                        1375
+                    ],
+                    [
+                        1759,
+                        1465
+                    ],
+                    [
+                        2138,
+                        1623
+                    ],
+                    [
+                        3263,
+                        2020
+                    ],
+                    [
+                        3263,
+                        2048
+                    ],
+                    [
+                        3263,
+                        2057
+                    ],
+                    [
+                        2589,
+                        1818
+                    ],
+                    [
+                        2033,
+                        1607
+                    ],
+                    [
+                        1829,
+                        1522
+                    ],
+                    [
+                        1566,
+                        1405
+                    ],
+                    [
+                        1362,
+                        1311
+                    ],
+                    [
+                        1209,
+                        1243
+                    ],
+                    [
+                        1123,
+                        1209
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997031,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.374Z",
+            "updatedAt": "2023-10-12T12:02:58.374Z",
+            "tags": [
+                {
+                    "id": 39380352,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.373Z",
+                    "updatedAt": "2023-10-12T12:02:58.373Z"
+                },
+                {
+                    "id": 39380353,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.373Z",
+                    "updatedAt": "2023-10-12T12:02:58.373Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        2509,
+                        0
+                    ],
+                    [
+                        2560,
+                        0
+                    ],
+                    [
+                        2579,
+                        1630
+                    ],
+                    [
+                        2503,
+                        1626
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997030,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.372Z",
+            "updatedAt": "2023-10-12T12:02:58.372Z",
+            "tags": [
+                {
+                    "id": 39380350,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.372Z",
+                    "updatedAt": "2023-10-12T12:02:58.372Z"
+                },
+                {
+                    "id": 39380351,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.372Z",
+                    "updatedAt": "2023-10-12T12:02:58.372Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        2978,
+                        1096
+                    ],
+                    [
+                        3012,
+                        1100
+                    ],
+                    [
+                        3019,
+                        1636
+                    ],
+                    [
+                        3013,
+                        1782
+                    ],
+                    [
+                        2983,
+                        1761
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997029,
+            "classId": 6479334,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.370Z",
+            "updatedAt": "2023-10-12T12:02:58.370Z",
+            "tags": [
+                {
+                    "id": 39380348,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.370Z",
+                    "updatedAt": "2023-10-12T12:02:58.370Z"
+                },
+                {
+                    "id": 39380349,
+                    "tagId": 22885,
+                    "name": "traffic-sign",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.370Z",
+                    "updatedAt": "2023-10-12T12:02:58.370Z"
+                }
+            ],
+            "classTitle": "traffic sign - ambiguous",
+            "points": {
+                "exterior": [
+                    [
+                        2916,
+                        1135
+                    ],
+                    [
+                        3105,
+                        1144
+                    ],
+                    [
+                        3101,
+                        1316
+                    ],
+                    [
+                        2912,
+                        1308
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997028,
+            "classId": 6479244,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.368Z",
+            "updatedAt": "2023-10-12T12:02:58.368Z",
+            "tags": [
+                {
+                    "id": 39380346,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.368Z",
+                    "updatedAt": "2023-10-12T12:02:58.368Z"
+                },
+                {
+                    "id": 39380347,
+                    "tagId": 22867,
+                    "name": "barrier",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.368Z",
+                    "updatedAt": "2023-10-12T12:02:58.368Z"
+                }
+            ],
+            "classTitle": "guard rail",
+            "points": {
+                "exterior": [
+                    [
+                        2073,
+                        1334
+                    ],
+                    [
+                        2376,
+                        1383
+                    ],
+                    [
+                        3263,
+                        1521
+                    ],
+                    [
+                        3263,
+                        1862
+                    ],
+                    [
+                        3263,
+                        1704
+                    ],
+                    [
+                        2733,
+                        1596
+                    ],
+                    [
+                        2728,
+                        1710
+                    ],
+                    [
+                        2670,
+                        1696
+                    ],
+                    [
+                        2676,
+                        1580
+                    ],
+                    [
+                        2207,
+                        1468
+                    ],
+                    [
+                        2206,
+                        1484
+                    ],
+                    [
+                        2257,
+                        1502
+                    ],
+                    [
+                        2262,
+                        1605
+                    ],
+                    [
+                        2154,
+                        1576
+                    ],
+                    [
+                        2071,
+                        1563
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997027,
+            "classId": 6479288,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.366Z",
+            "updatedAt": "2023-10-12T12:02:58.366Z",
+            "tags": [
+                {
+                    "id": 39380344,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.366Z",
+                    "updatedAt": "2023-10-12T12:02:58.366Z"
+                },
+                {
+                    "id": 39380345,
+                    "tagId": 22875,
+                    "name": "discrete",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.366Z",
+                    "updatedAt": "2023-10-12T12:02:58.366Z"
+                }
+            ],
+            "classTitle": "lane marking - other",
+            "points": {
+                "exterior": [
+                    [
+                        1286,
+                        1447
+                    ],
+                    [
+                        1368,
+                        1402
+                    ],
+                    [
+                        1608,
+                        1464
+                    ],
+                    [
+                        1565,
+                        1539
+                    ],
+                    [
+                        1276,
+                        1454
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997026,
+            "classId": 6479247,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.364Z",
+            "updatedAt": "2023-10-12T12:02:58.364Z",
+            "tags": [
+                {
+                    "id": 39380342,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.363Z",
+                    "updatedAt": "2023-10-12T12:02:58.363Z"
+                },
+                {
+                    "id": 39380343,
+                    "tagId": 22867,
+                    "name": "barrier",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.363Z",
+                    "updatedAt": "2023-10-12T12:02:58.363Z"
+                }
+            ],
+            "classTitle": "road side",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1134
+                    ],
+                    [
+                        59,
+                        1132
+                    ],
+                    [
+                        153,
+                        1127
+                    ],
+                    [
+                        249,
+                        1142
+                    ],
+                    [
+                        292,
+                        1151
+                    ],
+                    [
+                        285,
+                        1211
+                    ],
+                    [
+                        286,
+                        1249
+                    ],
+                    [
+                        696,
+                        1166
+                    ],
+                    [
+                        765,
+                        1154
+                    ],
+                    [
+                        835,
+                        1146
+                    ],
+                    [
+                        864,
+                        1146
+                    ],
+                    [
+                        885,
+                        1151
+                    ],
+                    [
+                        898,
+                        1162
+                    ],
+                    [
+                        900,
+                        1164
+                    ],
+                    [
+                        900,
+                        1180
+                    ],
+                    [
+                        884,
+                        1180
+                    ],
+                    [
+                        851,
+                        1193
+                    ],
+                    [
+                        742,
+                        1277
+                    ],
+                    [
+                        477,
+                        1471
+                    ],
+                    [
+                        303,
+                        1600
+                    ],
+                    [
+                        0,
+                        1731
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997025,
+            "classId": 6479274,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.361Z",
+            "updatedAt": "2023-10-12T12:02:58.361Z",
+            "tags": [
+                {
+                    "id": 39380340,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.358Z",
+                    "updatedAt": "2023-10-12T12:02:58.358Z"
+                },
+                {
+                    "id": 39380341,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.358Z",
+                    "updatedAt": "2023-10-12T12:02:58.358Z"
+                }
+            ],
+            "classTitle": "lane marking - straight line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1812
+                    ],
+                    [
+                        366,
+                        1540
+                    ],
+                    [
+                        587,
+                        1382
+                    ],
+                    [
+                        689,
+                        1307
+                    ],
+                    [
+                        754,
+                        1260
+                    ],
+                    [
+                        812,
+                        1219
+                    ],
+                    [
+                        852,
+                        1192
+                    ],
+                    [
+                        877,
+                        1181
+                    ],
+                    [
+                        883,
+                        1181
+                    ],
+                    [
+                        860,
+                        1195
+                    ],
+                    [
+                        777,
+                        1255
+                    ],
+                    [
+                        712,
+                        1312
+                    ],
+                    [
+                        567,
+                        1440
+                    ],
+                    [
+                        370,
+                        1596
+                    ],
+                    [
+                        0,
+                        1880
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997024,
+            "classId": 6479302,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.357Z",
+            "updatedAt": "2023-10-12T12:02:58.357Z",
+            "tags": [
+                {
+                    "id": 39380339,
+                    "tagId": 22880,
+                    "name": "nature",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.357Z",
+                    "updatedAt": "2023-10-12T12:02:58.357Z"
+                }
+            ],
+            "classTitle": "vegetation",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1456
+                    ],
+                    [
+                        126,
+                        1463
+                    ],
+                    [
+                        172,
+                        1456
+                    ],
+                    [
+                        241,
+                        1494
+                    ],
+                    [
+                        269,
+                        1555
+                    ],
+                    [
+                        313,
+                        1591
+                    ],
+                    [
+                        326,
+                        1616
+                    ],
+                    [
+                        347,
+                        1626
+                    ],
+                    [
+                        250,
+                        1645
+                    ],
+                    [
+                        293,
+                        1659
+                    ],
+                    [
+                        252,
+                        1673
+                    ],
+                    [
+                        201,
+                        1711
+                    ],
+                    [
+                        153,
+                        1720
+                    ],
+                    [
+                        0,
+                        1767
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997023,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.356Z",
+            "updatedAt": "2023-10-12T12:02:58.356Z",
+            "tags": [
+                {
+                    "id": 39380338,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.356Z",
+                    "updatedAt": "2023-10-12T12:02:58.356Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        1825,
+                        1130
+                    ],
+                    [
+                        1921,
+                        1135
+                    ],
+                    [
+                        1937,
+                        1135
+                    ],
+                    [
+                        1944,
+                        1145
+                    ],
+                    [
+                        1941,
+                        1151
+                    ],
+                    [
+                        1930,
+                        1152
+                    ],
+                    [
+                        1909,
+                        1154
+                    ],
+                    [
+                        1895,
+                        1156
+                    ],
+                    [
+                        1887,
+                        1143
+                    ],
+                    [
+                        1860,
+                        1140
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997022,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.355Z",
+            "updatedAt": "2023-10-12T12:02:58.355Z",
+            "tags": [
+                {
+                    "id": 39380337,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.354Z",
+                    "updatedAt": "2023-10-12T12:02:58.354Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1133
+                    ],
+                    [
+                        48,
+                        1124
+                    ],
+                    [
+                        103,
+                        1116
+                    ],
+                    [
+                        148,
+                        1119
+                    ],
+                    [
+                        224,
+                        1132
+                    ],
+                    [
+                        293,
+                        1144
+                    ],
+                    [
+                        291,
+                        1276
+                    ],
+                    [
+                        282,
+                        1530
+                    ],
+                    [
+                        264,
+                        1544
+                    ],
+                    [
+                        199,
+                        1487
+                    ],
+                    [
+                        115,
+                        1466
+                    ],
+                    [
+                        50,
+                        1459
+                    ],
+                    [
+                        0,
+                        1459
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997021,
+            "classId": 6479242,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.354Z",
+            "updatedAt": "2023-10-12T12:02:58.354Z",
+            "tags": [
+                {
+                    "id": 39380335,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.353Z",
+                    "updatedAt": "2023-10-12T12:02:58.353Z"
+                },
+                {
+                    "id": 39380336,
+                    "tagId": 22867,
+                    "name": "barrier",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.353Z",
+                    "updatedAt": "2023-10-12T12:02:58.353Z"
+                }
+            ],
+            "classTitle": "curb",
+            "points": {
+                "exterior": [
+                    [
+                        2561,
+                        1682
+                    ],
+                    [
+                        2604,
+                        1756
+                    ],
+                    [
+                        2533,
+                        1764
+                    ],
+                    [
+                        2279,
+                        1680
+                    ],
+                    [
+                        2162,
+                        1637
+                    ],
+                    [
+                        2015,
+                        1573
+                    ],
+                    [
+                        2037,
+                        1527
+                    ],
+                    [
+                        2126,
+                        1563
+                    ],
+                    [
+                        2190,
+                        1558
+                    ],
+                    [
+                        2274,
+                        1598
+                    ],
+                    [
+                        2409,
+                        1644
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997020,
+            "classId": 6479326,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.352Z",
+            "updatedAt": "2023-10-12T12:02:58.352Z",
+            "tags": [
+                {
+                    "id": 39380333,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.352Z",
+                    "updatedAt": "2023-10-12T12:02:58.352Z"
+                },
+                {
+                    "id": 39380334,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.352Z",
+                    "updatedAt": "2023-10-12T12:02:58.352Z"
+                }
+            ],
+            "classTitle": "utility pole",
+            "points": {
+                "exterior": [
+                    [
+                        1500,
+                        1188
+                    ],
+                    [
+                        1499,
+                        1094
+                    ],
+                    [
+                        1487,
+                        1095
+                    ],
+                    [
+                        1488,
+                        1080
+                    ],
+                    [
+                        1496,
+                        1082
+                    ],
+                    [
+                        1496,
+                        1085
+                    ],
+                    [
+                        1500,
+                        1085
+                    ],
+                    [
+                        1500,
+                        1065
+                    ],
+                    [
+                        1502,
+                        1063
+                    ],
+                    [
+                        1506,
+                        1067
+                    ],
+                    [
+                        1509,
+                        1066
+                    ],
+                    [
+                        1510,
+                        1067
+                    ],
+                    [
+                        1509,
+                        1070
+                    ],
+                    [
+                        1504,
+                        1071
+                    ],
+                    [
+                        1505,
+                        1084
+                    ],
+                    [
+                        1506,
+                        1086
+                    ],
+                    [
+                        1504,
+                        1096
+                    ],
+                    [
+                        1504,
+                        1189
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71997019,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:02:58.351Z",
+            "updatedAt": "2023-10-12T12:02:58.351Z",
+            "tags": [
+                {
+                    "id": 39380331,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.351Z",
+                    "updatedAt": "2023-10-12T12:02:58.351Z"
+                },
+                {
+                    "id": 39380332,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:02:58.351Z",
+                    "updatedAt": "2023-10-12T12:02:58.351Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        1423,
+                        1129
+                    ],
+                    [
+                        1423,
+                        1089
+                    ],
+                    [
+                        1426,
+                        1089
+                    ],
+                    [
+                        1425,
+                        1129
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

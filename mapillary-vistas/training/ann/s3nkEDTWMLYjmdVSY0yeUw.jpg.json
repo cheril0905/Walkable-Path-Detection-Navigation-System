@@ -1,0 +1,6723 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2448,
+        "width": 3264
+    },
+    "objects": [
+        {
+            "id": 71833383,
+            "classId": 6479259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.220Z",
+            "updatedAt": "2023-10-12T11:51:29.220Z",
+            "tags": [
+                {
+                    "id": 39092994,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.220Z",
+                    "updatedAt": "2023-10-12T11:51:29.220Z"
+                },
+                {
+                    "id": 39092995,
+                    "tagId": 22868,
+                    "name": "flat",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.220Z",
+                    "updatedAt": "2023-10-12T11:51:29.220Z"
+                }
+            ],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1459
+                    ],
+                    [
+                        806,
+                        1479
+                    ],
+                    [
+                        1918,
+                        1556
+                    ],
+                    [
+                        3263,
+                        1767
+                    ],
+                    [
+                        3263,
+                        2447
+                    ],
+                    [
+                        0,
+                        2447
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833382,
+            "classId": 6479251,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.219Z",
+            "updatedAt": "2023-10-12T11:51:29.219Z",
+            "tags": [
+                {
+                    "id": 39092992,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.219Z",
+                    "updatedAt": "2023-10-12T11:51:29.219Z"
+                },
+                {
+                    "id": 39092993,
+                    "tagId": 22868,
+                    "name": "flat",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.219Z",
+                    "updatedAt": "2023-10-12T11:51:29.219Z"
+                }
+            ],
+            "classTitle": "bike lane",
+            "points": {
+                "exterior": [
+                    [
+                        1885,
+                        1656
+                    ],
+                    [
+                        1903,
+                        1641
+                    ],
+                    [
+                        2043,
+                        1649
+                    ],
+                    [
+                        2328,
+                        2181
+                    ],
+                    [
+                        2481,
+                        2447
+                    ],
+                    [
+                        259,
+                        2447
+                    ],
+                    [
+                        1138,
+                        2012
+                    ],
+                    [
+                        1744,
+                        1714
+                    ],
+                    [
+                        1820,
+                        1678
+                    ],
+                    [
+                        1846,
+                        1670
+                    ],
+                    [
+                        1868,
+                        1665
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833381,
+            "classId": 6479262,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.218Z",
+            "updatedAt": "2023-10-12T11:51:29.218Z",
+            "tags": [
+                {
+                    "id": 39092990,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.218Z",
+                    "updatedAt": "2023-10-12T11:51:29.218Z"
+                },
+                {
+                    "id": 39092991,
+                    "tagId": 22868,
+                    "name": "flat",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.218Z",
+                    "updatedAt": "2023-10-12T11:51:29.218Z"
+                }
+            ],
+            "classTitle": "sidewalk",
+            "points": {
+                "exterior": [
+                    [
+                        2038,
+                        1649
+                    ],
+                    [
+                        2278,
+                        1657
+                    ],
+                    [
+                        3263,
+                        1921
+                    ],
+                    [
+                        3263,
+                        2447
+                    ],
+                    [
+                        2517,
+                        2447
+                    ],
+                    [
+                        2235,
+                        1982
+                    ],
+                    [
+                        2089,
+                        1740
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833380,
+            "classId": 6479273,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.218Z",
+            "updatedAt": "2023-10-12T11:51:29.218Z",
+            "tags": [
+                {
+                    "id": 39092988,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.218Z",
+                    "updatedAt": "2023-10-12T11:51:29.218Z"
+                },
+                {
+                    "id": 39092989,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.218Z",
+                    "updatedAt": "2023-10-12T11:51:29.218Z"
+                }
+            ],
+            "classTitle": "lane marking - dashed line",
+            "points": {
+                "exterior": [
+                    [
+                        62,
+                        1611
+                    ],
+                    [
+                        494,
+                        1603
+                    ],
+                    [
+                        943,
+                        1600
+                    ],
+                    [
+                        943,
+                        1604
+                    ],
+                    [
+                        509,
+                        1608
+                    ],
+                    [
+                        61,
+                        1616
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833379,
+            "classId": 6479278,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.218Z",
+            "updatedAt": "2023-10-12T11:51:29.218Z",
+            "tags": [
+                {
+                    "id": 39092985,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.218Z",
+                    "updatedAt": "2023-10-12T11:51:29.218Z"
+                },
+                {
+                    "id": 39092986,
+                    "tagId": 22875,
+                    "name": "discrete",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.218Z",
+                    "updatedAt": "2023-10-12T11:51:29.218Z"
+                },
+                {
+                    "id": 39092987,
+                    "tagId": 22876,
+                    "name": "arrow",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.218Z",
+                    "updatedAt": "2023-10-12T11:51:29.218Z"
+                }
+            ],
+            "classTitle": "lane marking - arrow (other)",
+            "points": {
+                "exterior": [
+                    [
+                        624,
+                        1634
+                    ],
+                    [
+                        658,
+                        1635
+                    ],
+                    [
+                        707,
+                        1638
+                    ],
+                    [
+                        707,
+                        1646
+                    ],
+                    [
+                        653,
+                        1648
+                    ],
+                    [
+                        613,
+                        1653
+                    ],
+                    [
+                        593,
+                        1647
+                    ],
+                    [
+                        599,
+                        1644
+                    ],
+                    [
+                        628,
+                        1641
+                    ],
+                    [
+                        624,
+                        1635
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833378,
+            "classId": 6479274,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.217Z",
+            "updatedAt": "2023-10-12T11:51:29.217Z",
+            "tags": [
+                {
+                    "id": 39092983,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.217Z",
+                    "updatedAt": "2023-10-12T11:51:29.217Z"
+                },
+                {
+                    "id": 39092984,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.217Z",
+                    "updatedAt": "2023-10-12T11:51:29.217Z"
+                }
+            ],
+            "classTitle": "lane marking - straight line",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1643
+                    ],
+                    [
+                        231,
+                        1637
+                    ],
+                    [
+                        840,
+                        1615
+                    ],
+                    [
+                        1246,
+                        1612
+                    ],
+                    [
+                        1503,
+                        1601
+                    ],
+                    [
+                        1503,
+                        1607
+                    ],
+                    [
+                        1440,
+                        1610
+                    ],
+                    [
+                        1261,
+                        1614
+                    ],
+                    [
+                        1155,
+                        1619
+                    ],
+                    [
+                        571,
+                        1634
+                    ],
+                    [
+                        105,
+                        1652
+                    ],
+                    [
+                        0,
+                        1655
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833377,
+            "classId": 6479274,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.217Z",
+            "updatedAt": "2023-10-12T11:51:29.217Z",
+            "tags": [
+                {
+                    "id": 39092981,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.217Z",
+                    "updatedAt": "2023-10-12T11:51:29.217Z"
+                },
+                {
+                    "id": 39092982,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.217Z",
+                    "updatedAt": "2023-10-12T11:51:29.217Z"
+                }
+            ],
+            "classTitle": "lane marking - straight line",
+            "points": {
+                "exterior": [
+                    [
+                        49,
+                        1695
+                    ],
+                    [
+                        635,
+                        1663
+                    ],
+                    [
+                        1158,
+                        1635
+                    ],
+                    [
+                        1477,
+                        1622
+                    ],
+                    [
+                        1485,
+                        1621
+                    ],
+                    [
+                        1471,
+                        1626
+                    ],
+                    [
+                        904,
+                        1656
+                    ],
+                    [
+                        99,
+                        1706
+                    ],
+                    [
+                        63,
+                        1706
+                    ],
+                    [
+                        45,
+                        1697
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833376,
+            "classId": 6479273,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.217Z",
+            "updatedAt": "2023-10-12T11:51:29.217Z",
+            "tags": [
+                {
+                    "id": 39092979,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.216Z",
+                    "updatedAt": "2023-10-12T11:51:29.216Z"
+                },
+                {
+                    "id": 39092980,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.216Z",
+                    "updatedAt": "2023-10-12T11:51:29.216Z"
+                }
+            ],
+            "classTitle": "lane marking - dashed line",
+            "points": {
+                "exterior": [
+                    [
+                        345,
+                        1806
+                    ],
+                    [
+                        634,
+                        1767
+                    ],
+                    [
+                        1052,
+                        1714
+                    ],
+                    [
+                        1385,
+                        1668
+                    ],
+                    [
+                        1601,
+                        1639
+                    ],
+                    [
+                        1610,
+                        1650
+                    ],
+                    [
+                        1477,
+                        1667
+                    ],
+                    [
+                        1413,
+                        1679
+                    ],
+                    [
+                        1309,
+                        1694
+                    ],
+                    [
+                        1225,
+                        1707
+                    ],
+                    [
+                        858,
+                        1755
+                    ],
+                    [
+                        423,
+                        1817
+                    ],
+                    [
+                        344,
+                        1810
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833375,
+            "classId": 6479274,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.216Z",
+            "updatedAt": "2023-10-12T11:51:29.216Z",
+            "tags": [
+                {
+                    "id": 39092977,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.216Z",
+                    "updatedAt": "2023-10-12T11:51:29.216Z"
+                },
+                {
+                    "id": 39092978,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.216Z",
+                    "updatedAt": "2023-10-12T11:51:29.216Z"
+                }
+            ],
+            "classTitle": "lane marking - straight line",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        2446
+                    ],
+                    [
+                        1016,
+                        2051
+                    ],
+                    [
+                        1827,
+                        1668
+                    ],
+                    [
+                        1845,
+                        1667
+                    ],
+                    [
+                        1853,
+                        1666
+                    ],
+                    [
+                        1893,
+                        1644
+                    ],
+                    [
+                        1908,
+                        1646
+                    ],
+                    [
+                        1875,
+                        1670
+                    ],
+                    [
+                        1850,
+                        1672
+                    ],
+                    [
+                        1826,
+                        1679
+                    ],
+                    [
+                        1648,
+                        1769
+                    ],
+                    [
+                        1287,
+                        1956
+                    ],
+                    [
+                        475,
+                        2374
+                    ],
+                    [
+                        345,
+                        2447
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833374,
+            "classId": 6479299,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.216Z",
+            "updatedAt": "2023-10-12T11:51:29.216Z",
+            "tags": [
+                {
+                    "id": 39092976,
+                    "tagId": 22880,
+                    "name": "nature",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.216Z",
+                    "updatedAt": "2023-10-12T11:51:29.216Z"
+                }
+            ],
+            "classTitle": "sky",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1353
+                    ],
+                    [
+                        1882,
+                        1571
+                    ],
+                    [
+                        2982,
+                        1688
+                    ],
+                    [
+                        3263,
+                        1798
+                    ],
+                    [
+                        3263,
+                        0
+                    ],
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833373,
+            "classId": 6479265,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.216Z",
+            "updatedAt": "2023-10-12T11:51:29.216Z",
+            "tags": [
+                {
+                    "id": 39092974,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.215Z",
+                    "updatedAt": "2023-10-12T11:51:29.215Z"
+                },
+                {
+                    "id": 39092975,
+                    "tagId": 22869,
+                    "name": "structure",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.215Z",
+                    "updatedAt": "2023-10-12T11:51:29.215Z"
+                }
+            ],
+            "classTitle": "building",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1194
+                    ],
+                    [
+                        160,
+                        1145
+                    ],
+                    [
+                        326,
+                        1162
+                    ],
+                    [
+                        661,
+                        1196
+                    ],
+                    [
+                        786,
+                        1210
+                    ],
+                    [
+                        862,
+                        1226
+                    ],
+                    [
+                        907,
+                        1230
+                    ],
+                    [
+                        1027,
+                        939
+                    ],
+                    [
+                        1191,
+                        527
+                    ],
+                    [
+                        1216,
+                        454
+                    ],
+                    [
+                        1265,
+                        161
+                    ],
+                    [
+                        1295,
+                        0
+                    ],
+                    [
+                        1809,
+                        0
+                    ],
+                    [
+                        1876,
+                        0
+                    ],
+                    [
+                        1750,
+                        63
+                    ],
+                    [
+                        1714,
+                        81
+                    ],
+                    [
+                        1758,
+                        312
+                    ],
+                    [
+                        1740,
+                        501
+                    ],
+                    [
+                        1715,
+                        745
+                    ],
+                    [
+                        1671,
+                        1183
+                    ],
+                    [
+                        1654,
+                        1311
+                    ],
+                    [
+                        1958,
+                        1316
+                    ],
+                    [
+                        1980,
+                        876
+                    ],
+                    [
+                        2004,
+                        405
+                    ],
+                    [
+                        2027,
+                        77
+                    ],
+                    [
+                        2032,
+                        0
+                    ],
+                    [
+                        2582,
+                        0
+                    ],
+                    [
+                        2554,
+                        82
+                    ],
+                    [
+                        2536,
+                        325
+                    ],
+                    [
+                        2455,
+                        1256
+                    ],
+                    [
+                        2561,
+                        1284
+                    ],
+                    [
+                        2786,
+                        1304
+                    ],
+                    [
+                        2805,
+                        1304
+                    ],
+                    [
+                        2833,
+                        1317
+                    ],
+                    [
+                        2842,
+                        1315
+                    ],
+                    [
+                        2849,
+                        1196
+                    ],
+                    [
+                        2856,
+                        1195
+                    ],
+                    [
+                        2855,
+                        1183
+                    ],
+                    [
+                        2850,
+                        1174
+                    ],
+                    [
+                        2842,
+                        1167
+                    ],
+                    [
+                        2838,
+                        1169
+                    ],
+                    [
+                        2828,
+                        1172
+                    ],
+                    [
+                        2826,
+                        1167
+                    ],
+                    [
+                        2828,
+                        1161
+                    ],
+                    [
+                        2837,
+                        1161
+                    ],
+                    [
+                        2844,
+                        1163
+                    ],
+                    [
+                        2852,
+                        1166
+                    ],
+                    [
+                        2867,
+                        1196
+                    ],
+                    [
+                        3148,
+                        1195
+                    ],
+                    [
+                        3263,
+                        1194
+                    ],
+                    [
+                        3263,
+                        1820
+                    ],
+                    [
+                        2346,
+                        1676
+                    ],
+                    [
+                        2233,
+                        1626
+                    ],
+                    [
+                        2070,
+                        1614
+                    ],
+                    [
+                        1946,
+                        1607
+                    ],
+                    [
+                        1950,
+                        1484
+                    ],
+                    [
+                        1560,
+                        1474
+                    ],
+                    [
+                        1545,
+                        1505
+                    ],
+                    [
+                        1702,
+                        1517
+                    ],
+                    [
+                        1870,
+                        1527
+                    ],
+                    [
+                        1873,
+                        1545
+                    ],
+                    [
+                        1867,
+                        1568
+                    ],
+                    [
+                        1508,
+                        1565
+                    ],
+                    [
+                        1455,
+                        1571
+                    ],
+                    [
+                        897,
+                        1545
+                    ],
+                    [
+                        0,
+                        1507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833372,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.215Z",
+            "updatedAt": "2023-10-12T11:51:29.215Z",
+            "tags": [
+                {
+                    "id": 39092972,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.215Z",
+                    "updatedAt": "2023-10-12T11:51:29.215Z"
+                },
+                {
+                    "id": 39092973,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.215Z",
+                    "updatedAt": "2023-10-12T11:51:29.215Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        1568,
+                        1343
+                    ],
+                    [
+                        1568,
+                        1339
+                    ],
+                    [
+                        1565,
+                        1339
+                    ],
+                    [
+                        1494,
+                        1338
+                    ],
+                    [
+                        1482,
+                        1577
+                    ],
+                    [
+                        1477,
+                        1577
+                    ],
+                    [
+                        1490,
+                        1333
+                    ],
+                    [
+                        1573,
+                        1336
+                    ],
+                    [
+                        1573,
+                        1342
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833371,
+            "classId": 6479302,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.215Z",
+            "updatedAt": "2023-10-12T11:51:29.215Z",
+            "tags": [
+                {
+                    "id": 39092971,
+                    "tagId": 22880,
+                    "name": "nature",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.215Z",
+                    "updatedAt": "2023-10-12T11:51:29.215Z"
+                }
+            ],
+            "classTitle": "vegetation",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1380
+                    ],
+                    [
+                        8,
+                        1354
+                    ],
+                    [
+                        31,
+                        1321
+                    ],
+                    [
+                        35,
+                        1305
+                    ],
+                    [
+                        41,
+                        1272
+                    ],
+                    [
+                        52,
+                        1252
+                    ],
+                    [
+                        49,
+                        1214
+                    ],
+                    [
+                        64,
+                        1193
+                    ],
+                    [
+                        86,
+                        1187
+                    ],
+                    [
+                        91,
+                        1186
+                    ],
+                    [
+                        88,
+                        1138
+                    ],
+                    [
+                        99,
+                        1146
+                    ],
+                    [
+                        115,
+                        1172
+                    ],
+                    [
+                        123,
+                        1193
+                    ],
+                    [
+                        140,
+                        1202
+                    ],
+                    [
+                        146,
+                        1208
+                    ],
+                    [
+                        149,
+                        1236
+                    ],
+                    [
+                        132,
+                        1253
+                    ],
+                    [
+                        127,
+                        1290
+                    ],
+                    [
+                        110,
+                        1314
+                    ],
+                    [
+                        102,
+                        1358
+                    ],
+                    [
+                        69,
+                        1376
+                    ],
+                    [
+                        71,
+                        1407
+                    ],
+                    [
+                        96,
+                        1422
+                    ],
+                    [
+                        119,
+                        1423
+                    ],
+                    [
+                        124,
+                        1414
+                    ],
+                    [
+                        129,
+                        1379
+                    ],
+                    [
+                        140,
+                        1368
+                    ],
+                    [
+                        153,
+                        1371
+                    ],
+                    [
+                        166,
+                        1384
+                    ],
+                    [
+                        189,
+                        1359
+                    ],
+                    [
+                        194,
+                        1359
+                    ],
+                    [
+                        213,
+                        1391
+                    ],
+                    [
+                        216,
+                        1415
+                    ],
+                    [
+                        222,
+                        1427
+                    ],
+                    [
+                        232,
+                        1436
+                    ],
+                    [
+                        243,
+                        1436
+                    ],
+                    [
+                        254,
+                        1437
+                    ],
+                    [
+                        262,
+                        1452
+                    ],
+                    [
+                        268,
+                        1458
+                    ],
+                    [
+                        327,
+                        1463
+                    ],
+                    [
+                        346,
+                        1457
+                    ],
+                    [
+                        351,
+                        1419
+                    ],
+                    [
+                        356,
+                        1397
+                    ],
+                    [
+                        343,
+                        1376
+                    ],
+                    [
+                        340,
+                        1356
+                    ],
+                    [
+                        342,
+                        1321
+                    ],
+                    [
+                        350,
+                        1280
+                    ],
+                    [
+                        372,
+                        1257
+                    ],
+                    [
+                        377,
+                        1254
+                    ],
+                    [
+                        402,
+                        1257
+                    ],
+                    [
+                        407,
+                        1273
+                    ],
+                    [
+                        407,
+                        1299
+                    ],
+                    [
+                        409,
+                        1339
+                    ],
+                    [
+                        414,
+                        1386
+                    ],
+                    [
+                        413,
+                        1420
+                    ],
+                    [
+                        433,
+                        1428
+                    ],
+                    [
+                        473,
+                        1421
+                    ],
+                    [
+                        488,
+                        1412
+                    ],
+                    [
+                        510,
+                        1426
+                    ],
+                    [
+                        553,
+                        1434
+                    ],
+                    [
+                        575,
+                        1429
+                    ],
+                    [
+                        571,
+                        1445
+                    ],
+                    [
+                        571,
+                        1451
+                    ],
+                    [
+                        590,
+                        1460
+                    ],
+                    [
+                        594,
+                        1468
+                    ],
+                    [
+                        605,
+                        1477
+                    ],
+                    [
+                        607,
+                        1481
+                    ],
+                    [
+                        610,
+                        1484
+                    ],
+                    [
+                        614,
+                        1490
+                    ],
+                    [
+                        622,
+                        1495
+                    ],
+                    [
+                        623,
+                        1498
+                    ],
+                    [
+                        623,
+                        1473
+                    ],
+                    [
+                        620,
+                        1456
+                    ],
+                    [
+                        616,
+                        1439
+                    ],
+                    [
+                        621,
+                        1430
+                    ],
+                    [
+                        629,
+                        1430
+                    ],
+                    [
+                        643,
+                        1432
+                    ],
+                    [
+                        649,
+                        1432
+                    ],
+                    [
+                        662,
+                        1421
+                    ],
+                    [
+                        667,
+                        1417
+                    ],
+                    [
+                        695,
+                        1426
+                    ],
+                    [
+                        695,
+                        1405
+                    ],
+                    [
+                        693,
+                        1383
+                    ],
+                    [
+                        696,
+                        1375
+                    ],
+                    [
+                        692,
+                        1365
+                    ],
+                    [
+                        685,
+                        1348
+                    ],
+                    [
+                        690,
+                        1331
+                    ],
+                    [
+                        685,
+                        1322
+                    ],
+                    [
+                        695,
+                        1307
+                    ],
+                    [
+                        701,
+                        1306
+                    ],
+                    [
+                        707,
+                        1318
+                    ],
+                    [
+                        711,
+                        1318
+                    ],
+                    [
+                        727,
+                        1314
+                    ],
+                    [
+                        732,
+                        1322
+                    ],
+                    [
+                        735,
+                        1329
+                    ],
+                    [
+                        743,
+                        1311
+                    ],
+                    [
+                        744,
+                        1297
+                    ],
+                    [
+                        758,
+                        1288
+                    ],
+                    [
+                        760,
+                        1288
+                    ],
+                    [
+                        768,
+                        1290
+                    ],
+                    [
+                        773,
+                        1292
+                    ],
+                    [
+                        775,
+                        1301
+                    ],
+                    [
+                        771,
+                        1311
+                    ],
+                    [
+                        769,
+                        1320
+                    ],
+                    [
+                        766,
+                        1344
+                    ],
+                    [
+                        766,
+                        1346
+                    ],
+                    [
+                        775,
+                        1355
+                    ],
+                    [
+                        779,
+                        1357
+                    ],
+                    [
+                        784,
+                        1357
+                    ],
+                    [
+                        792,
+                        1365
+                    ],
+                    [
+                        795,
+                        1375
+                    ],
+                    [
+                        800,
+                        1393
+                    ],
+                    [
+                        793,
+                        1418
+                    ],
+                    [
+                        790,
+                        1432
+                    ],
+                    [
+                        786,
+                        1438
+                    ],
+                    [
+                        777,
+                        1441
+                    ],
+                    [
+                        757,
+                        1452
+                    ],
+                    [
+                        753,
+                        1456
+                    ],
+                    [
+                        754,
+                        1480
+                    ],
+                    [
+                        757,
+                        1497
+                    ],
+                    [
+                        798,
+                        1501
+                    ],
+                    [
+                        813,
+                        1499
+                    ],
+                    [
+                        840,
+                        1506
+                    ],
+                    [
+                        853,
+                        1498
+                    ],
+                    [
+                        860,
+                        1471
+                    ],
+                    [
+                        863,
+                        1435
+                    ],
+                    [
+                        853,
+                        1432
+                    ],
+                    [
+                        835,
+                        1415
+                    ],
+                    [
+                        807,
+                        1391
+                    ],
+                    [
+                        799,
+                        1377
+                    ],
+                    [
+                        818,
+                        1372
+                    ],
+                    [
+                        830,
+                        1382
+                    ],
+                    [
+                        835,
+                        1366
+                    ],
+                    [
+                        833,
+                        1342
+                    ],
+                    [
+                        848,
+                        1351
+                    ],
+                    [
+                        858,
+                        1345
+                    ],
+                    [
+                        875,
+                        1329
+                    ],
+                    [
+                        883,
+                        1317
+                    ],
+                    [
+                        897,
+                        1330
+                    ],
+                    [
+                        880,
+                        1350
+                    ],
+                    [
+                        868,
+                        1363
+                    ],
+                    [
+                        896,
+                        1351
+                    ],
+                    [
+                        914,
+                        1354
+                    ],
+                    [
+                        903,
+                        1376
+                    ],
+                    [
+                        913,
+                        1395
+                    ],
+                    [
+                        902,
+                        1401
+                    ],
+                    [
+                        907,
+                        1436
+                    ],
+                    [
+                        913,
+                        1455
+                    ],
+                    [
+                        928,
+                        1474
+                    ],
+                    [
+                        939,
+                        1483
+                    ],
+                    [
+                        944,
+                        1498
+                    ],
+                    [
+                        947,
+                        1507
+                    ],
+                    [
+                        956,
+                        1498
+                    ],
+                    [
+                        959,
+                        1477
+                    ],
+                    [
+                        959,
+                        1460
+                    ],
+                    [
+                        962,
+                        1450
+                    ],
+                    [
+                        971,
+                        1453
+                    ],
+                    [
+                        990,
+                        1458
+                    ],
+                    [
+                        1017,
+                        1468
+                    ],
+                    [
+                        1031,
+                        1483
+                    ],
+                    [
+                        1035,
+                        1500
+                    ],
+                    [
+                        1037,
+                        1515
+                    ],
+                    [
+                        1047,
+                        1502
+                    ],
+                    [
+                        1056,
+                        1501
+                    ],
+                    [
+                        1071,
+                        1502
+                    ],
+                    [
+                        1082,
+                        1515
+                    ],
+                    [
+                        1092,
+                        1519
+                    ],
+                    [
+                        1110,
+                        1517
+                    ],
+                    [
+                        1114,
+                        1520
+                    ],
+                    [
+                        1115,
+                        1545
+                    ],
+                    [
+                        1134,
+                        1549
+                    ],
+                    [
+                        1163,
+                        1547
+                    ],
+                    [
+                        1186,
+                        1548
+                    ],
+                    [
+                        1190,
+                        1542
+                    ],
+                    [
+                        1203,
+                        1546
+                    ],
+                    [
+                        1211,
+                        1549
+                    ],
+                    [
+                        1229,
+                        1549
+                    ],
+                    [
+                        1240,
+                        1552
+                    ],
+                    [
+                        1249,
+                        1541
+                    ],
+                    [
+                        1256,
+                        1543
+                    ],
+                    [
+                        1258,
+                        1532
+                    ],
+                    [
+                        1267,
+                        1530
+                    ],
+                    [
+                        1276,
+                        1547
+                    ],
+                    [
+                        1282,
+                        1543
+                    ],
+                    [
+                        1297,
+                        1542
+                    ],
+                    [
+                        1315,
+                        1546
+                    ],
+                    [
+                        1317,
+                        1558
+                    ],
+                    [
+                        1304,
+                        1571
+                    ],
+                    [
+                        1253,
+                        1574
+                    ],
+                    [
+                        1157,
+                        1568
+                    ],
+                    [
+                        1114,
+                        1561
+                    ],
+                    [
+                        1069,
+                        1566
+                    ],
+                    [
+                        814,
+                        1555
+                    ],
+                    [
+                        739,
+                        1543
+                    ],
+                    [
+                        733,
+                        1550
+                    ],
+                    [
+                        712,
+                        1551
+                    ],
+                    [
+                        666,
+                        1543
+                    ],
+                    [
+                        639,
+                        1545
+                    ],
+                    [
+                        640,
+                        1559
+                    ],
+                    [
+                        638,
+                        1568
+                    ],
+                    [
+                        622,
+                        1570
+                    ],
+                    [
+                        601,
+                        1569
+                    ],
+                    [
+                        567,
+                        1568
+                    ],
+                    [
+                        543,
+                        1568
+                    ],
+                    [
+                        524,
+                        1565
+                    ],
+                    [
+                        519,
+                        1565
+                    ],
+                    [
+                        476,
+                        1564
+                    ],
+                    [
+                        451,
+                        1564
+                    ],
+                    [
+                        227,
+                        1554
+                    ],
+                    [
+                        197,
+                        1553
+                    ],
+                    [
+                        191,
+                        1541
+                    ],
+                    [
+                        179,
+                        1535
+                    ],
+                    [
+                        176,
+                        1534
+                    ],
+                    [
+                        81,
+                        1528
+                    ],
+                    [
+                        0,
+                        1521
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833370,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.214Z",
+            "updatedAt": "2023-10-12T11:51:29.214Z",
+            "tags": [
+                {
+                    "id": 39092969,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.214Z",
+                    "updatedAt": "2023-10-12T11:51:29.214Z"
+                },
+                {
+                    "id": 39092970,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.214Z",
+                    "updatedAt": "2023-10-12T11:51:29.214Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        582,
+                        1292
+                    ],
+                    [
+                        558,
+                        1499
+                    ],
+                    [
+                        549,
+                        1499
+                    ],
+                    [
+                        573,
+                        1290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833369,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.214Z",
+            "updatedAt": "2023-10-12T11:51:29.214Z",
+            "tags": [
+                {
+                    "id": 39092967,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.214Z",
+                    "updatedAt": "2023-10-12T11:51:29.214Z"
+                },
+                {
+                    "id": 39092968,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.214Z",
+                    "updatedAt": "2023-10-12T11:51:29.214Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        58,
+                        1528
+                    ],
+                    [
+                        138,
+                        958
+                    ],
+                    [
+                        271,
+                        961
+                    ],
+                    [
+                        271,
+                        967
+                    ],
+                    [
+                        276,
+                        967
+                    ],
+                    [
+                        278,
+                        956
+                    ],
+                    [
+                        126,
+                        951
+                    ],
+                    [
+                        40,
+                        1527
+                    ],
+                    [
+                        50,
+                        1528
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833368,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.214Z",
+            "updatedAt": "2023-10-12T11:51:29.214Z",
+            "tags": [
+                {
+                    "id": 39092966,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.214Z",
+                    "updatedAt": "2023-10-12T11:51:29.214Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        268,
+                        962
+                    ],
+                    [
+                        277,
+                        963
+                    ],
+                    [
+                        285,
+                        970
+                    ],
+                    [
+                        290,
+                        977
+                    ],
+                    [
+                        289,
+                        990
+                    ],
+                    [
+                        283,
+                        991
+                    ],
+                    [
+                        249,
+                        989
+                    ],
+                    [
+                        249,
+                        984
+                    ],
+                    [
+                        254,
+                        975
+                    ],
+                    [
+                        262,
+                        966
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833367,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.214Z",
+            "updatedAt": "2023-10-12T11:51:29.214Z",
+            "tags": [
+                {
+                    "id": 39092965,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.213Z",
+                    "updatedAt": "2023-10-12T11:51:29.213Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        745,
+                        1495
+                    ],
+                    [
+                        762,
+                        1497
+                    ],
+                    [
+                        796,
+                        1495
+                    ],
+                    [
+                        794,
+                        1558
+                    ],
+                    [
+                        758,
+                        1561
+                    ],
+                    [
+                        736,
+                        1553
+                    ],
+                    [
+                        742,
+                        1494
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833366,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.213Z",
+            "updatedAt": "2023-10-12T11:51:29.213Z",
+            "tags": [
+                {
+                    "id": 39092964,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.213Z",
+                    "updatedAt": "2023-10-12T11:51:29.213Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        1086,
+                        866
+                    ],
+                    [
+                        1094,
+                        874
+                    ],
+                    [
+                        1116,
+                        921
+                    ],
+                    [
+                        1149,
+                        995
+                    ],
+                    [
+                        1153,
+                        1038
+                    ],
+                    [
+                        1140,
+                        1051
+                    ],
+                    [
+                        1128,
+                        1063
+                    ],
+                    [
+                        1117,
+                        1054
+                    ],
+                    [
+                        1109,
+                        1033
+                    ],
+                    [
+                        1109,
+                        1014
+                    ],
+                    [
+                        1088,
+                        985
+                    ],
+                    [
+                        1083,
+                        995
+                    ],
+                    [
+                        1075,
+                        1003
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833365,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.213Z",
+            "updatedAt": "2023-10-12T11:51:29.213Z",
+            "tags": [
+                {
+                    "id": 39092962,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.213Z",
+                    "updatedAt": "2023-10-12T11:51:29.213Z"
+                },
+                {
+                    "id": 39092963,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.213Z",
+                    "updatedAt": "2023-10-12T11:51:29.213Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        1043,
+                        1533
+                    ],
+                    [
+                        1047,
+                        1426
+                    ],
+                    [
+                        1069,
+                        1098
+                    ],
+                    [
+                        1088,
+                        858
+                    ],
+                    [
+                        1080,
+                        858
+                    ],
+                    [
+                        1036,
+                        1422
+                    ],
+                    [
+                        1031,
+                        1528
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833364,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.212Z",
+            "updatedAt": "2023-10-12T11:51:29.212Z",
+            "tags": [
+                {
+                    "id": 39092961,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.212Z",
+                    "updatedAt": "2023-10-12T11:51:29.212Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        1217,
+                        913
+                    ],
+                    [
+                        1225,
+                        925
+                    ],
+                    [
+                        1243,
+                        979
+                    ],
+                    [
+                        1271,
+                        1052
+                    ],
+                    [
+                        1282,
+                        1077
+                    ],
+                    [
+                        1298,
+                        1092
+                    ],
+                    [
+                        1287,
+                        1100
+                    ],
+                    [
+                        1262,
+                        1091
+                    ],
+                    [
+                        1259,
+                        1079
+                    ],
+                    [
+                        1237,
+                        1059
+                    ],
+                    [
+                        1223,
+                        1036
+                    ],
+                    [
+                        1211,
+                        1024
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833363,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.212Z",
+            "updatedAt": "2023-10-12T11:51:29.212Z",
+            "tags": [
+                {
+                    "id": 39092959,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.212Z",
+                    "updatedAt": "2023-10-12T11:51:29.212Z"
+                },
+                {
+                    "id": 39092960,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.212Z",
+                    "updatedAt": "2023-10-12T11:51:29.212Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        1219,
+                        910
+                    ],
+                    [
+                        1194,
+                        1555
+                    ],
+                    [
+                        1189,
+                        1556
+                    ],
+                    [
+                        1214,
+                        909
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833362,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.212Z",
+            "updatedAt": "2023-10-12T11:51:29.212Z",
+            "tags": [
+                {
+                    "id": 39092957,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.212Z",
+                    "updatedAt": "2023-10-12T11:51:29.212Z"
+                },
+                {
+                    "id": 39092958,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.212Z",
+                    "updatedAt": "2023-10-12T11:51:29.212Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        1324,
+                        961
+                    ],
+                    [
+                        1312,
+                        1129
+                    ],
+                    [
+                        1286,
+                        1343
+                    ],
+                    [
+                        1272,
+                        1574
+                    ],
+                    [
+                        1268,
+                        1574
+                    ],
+                    [
+                        1264,
+                        1573
+                    ],
+                    [
+                        1281,
+                        1342
+                    ],
+                    [
+                        1315,
+                        1021
+                    ],
+                    [
+                        1319,
+                        961
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833361,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.211Z",
+            "updatedAt": "2023-10-12T11:51:29.211Z",
+            "tags": [
+                {
+                    "id": 39092956,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.211Z",
+                    "updatedAt": "2023-10-12T11:51:29.211Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        1319,
+                        960
+                    ],
+                    [
+                        1325,
+                        961
+                    ],
+                    [
+                        1330,
+                        978
+                    ],
+                    [
+                        1361,
+                        1048
+                    ],
+                    [
+                        1392,
+                        1133
+                    ],
+                    [
+                        1385,
+                        1140
+                    ],
+                    [
+                        1373,
+                        1153
+                    ],
+                    [
+                        1366,
+                        1157
+                    ],
+                    [
+                        1364,
+                        1135
+                    ],
+                    [
+                        1350,
+                        1101
+                    ],
+                    [
+                        1339,
+                        1080
+                    ],
+                    [
+                        1327,
+                        1066
+                    ],
+                    [
+                        1310,
+                        1066
+                    ],
+                    [
+                        1318,
+                        961
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833360,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.211Z",
+            "updatedAt": "2023-10-12T11:51:29.211Z",
+            "tags": [
+                {
+                    "id": 39092954,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.211Z",
+                    "updatedAt": "2023-10-12T11:51:29.211Z"
+                },
+                {
+                    "id": 39092955,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.211Z",
+                    "updatedAt": "2023-10-12T11:51:29.211Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        1223,
+                        1245
+                    ],
+                    [
+                        1223,
+                        1242
+                    ],
+                    [
+                        1151,
+                        1244
+                    ],
+                    [
+                        1121,
+                        1574
+                    ],
+                    [
+                        1114,
+                        1572
+                    ],
+                    [
+                        1145,
+                        1239
+                    ],
+                    [
+                        1226,
+                        1239
+                    ],
+                    [
+                        1224,
+                        1246
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833359,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.211Z",
+            "updatedAt": "2023-10-12T11:51:29.211Z",
+            "tags": [
+                {
+                    "id": 39092953,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.210Z",
+                    "updatedAt": "2023-10-12T11:51:29.210Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1224,
+                        1243
+                    ],
+                    [
+                        1222,
+                        1244
+                    ],
+                    [
+                        1213,
+                        1251
+                    ],
+                    [
+                        1210,
+                        1255
+                    ],
+                    [
+                        1211,
+                        1259
+                    ],
+                    [
+                        1231,
+                        1259
+                    ],
+                    [
+                        1231,
+                        1255
+                    ],
+                    [
+                        1230,
+                        1250
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833358,
+            "classId": 6479273,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.210Z",
+            "updatedAt": "2023-10-12T11:51:29.210Z",
+            "tags": [
+                {
+                    "id": 39092951,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.210Z",
+                    "updatedAt": "2023-10-12T11:51:29.210Z"
+                },
+                {
+                    "id": 39092952,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.210Z",
+                    "updatedAt": "2023-10-12T11:51:29.210Z"
+                }
+            ],
+            "classTitle": "lane marking - dashed line",
+            "points": {
+                "exterior": [
+                    [
+                        1464,
+                        1715
+                    ],
+                    [
+                        1545,
+                        1693
+                    ],
+                    [
+                        1551,
+                        1699
+                    ],
+                    [
+                        1487,
+                        1719
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833357,
+            "classId": 6479357,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.209Z",
+            "updatedAt": "2023-10-12T11:51:29.209Z",
+            "tags": [
+                {
+                    "id": 39092950,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.209Z",
+                    "updatedAt": "2023-10-12T11:51:29.209Z"
+                }
+            ],
+            "classTitle": "dynamic",
+            "points": {
+                "exterior": [
+                    [
+                        1376,
+                        1561
+                    ],
+                    [
+                        1386,
+                        1561
+                    ],
+                    [
+                        1386,
+                        1572
+                    ],
+                    [
+                        1376,
+                        1573
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833356,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.209Z",
+            "updatedAt": "2023-10-12T11:51:29.209Z",
+            "tags": [
+                {
+                    "id": 39092949,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.209Z",
+                    "updatedAt": "2023-10-12T11:51:29.209Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1567,
+                        1343
+                    ],
+                    [
+                        1567,
+                        1342
+                    ],
+                    [
+                        1570,
+                        1342
+                    ],
+                    [
+                        1574,
+                        1343
+                    ],
+                    [
+                        1575,
+                        1347
+                    ],
+                    [
+                        1573,
+                        1351
+                    ],
+                    [
+                        1569,
+                        1352
+                    ],
+                    [
+                        1565,
+                        1350
+                    ],
+                    [
+                        1564,
+                        1346
+                    ],
+                    [
+                        1565,
+                        1344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833355,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.209Z",
+            "updatedAt": "2023-10-12T11:51:29.209Z",
+            "tags": [
+                {
+                    "id": 39092947,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.208Z",
+                    "updatedAt": "2023-10-12T11:51:29.208Z"
+                },
+                {
+                    "id": 39092948,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.208Z",
+                    "updatedAt": "2023-10-12T11:51:29.208Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        1316,
+                        1543
+                    ],
+                    [
+                        1319,
+                        1535
+                    ],
+                    [
+                        1324,
+                        1535
+                    ],
+                    [
+                        1327,
+                        1540
+                    ],
+                    [
+                        1327,
+                        1544
+                    ],
+                    [
+                        1324,
+                        1548
+                    ],
+                    [
+                        1324,
+                        1577
+                    ],
+                    [
+                        1320,
+                        1577
+                    ],
+                    [
+                        1319,
+                        1548
+                    ],
+                    [
+                        1318,
+                        1546
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833354,
+            "classId": 6479302,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.208Z",
+            "updatedAt": "2023-10-12T11:51:29.208Z",
+            "tags": [
+                {
+                    "id": 39092946,
+                    "tagId": 22880,
+                    "name": "nature",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.208Z",
+                    "updatedAt": "2023-10-12T11:51:29.208Z"
+                }
+            ],
+            "classTitle": "vegetation",
+            "points": {
+                "exterior": [
+                    [
+                        1714,
+                        1520
+                    ],
+                    [
+                        1722,
+                        1507
+                    ],
+                    [
+                        1733,
+                        1505
+                    ],
+                    [
+                        1738,
+                        1520
+                    ],
+                    [
+                        1738,
+                        1525
+                    ],
+                    [
+                        1745,
+                        1528
+                    ],
+                    [
+                        1767,
+                        1536
+                    ],
+                    [
+                        1771,
+                        1533
+                    ],
+                    [
+                        1775,
+                        1530
+                    ],
+                    [
+                        1783,
+                        1527
+                    ],
+                    [
+                        1788,
+                        1531
+                    ],
+                    [
+                        1791,
+                        1532
+                    ],
+                    [
+                        1794,
+                        1533
+                    ],
+                    [
+                        1804,
+                        1535
+                    ],
+                    [
+                        1814,
+                        1537
+                    ],
+                    [
+                        1834,
+                        1550
+                    ],
+                    [
+                        1846,
+                        1537
+                    ],
+                    [
+                        1854,
+                        1526
+                    ],
+                    [
+                        1858,
+                        1526
+                    ],
+                    [
+                        1867,
+                        1526
+                    ],
+                    [
+                        1873,
+                        1526
+                    ],
+                    [
+                        1878,
+                        1522
+                    ],
+                    [
+                        1884,
+                        1519
+                    ],
+                    [
+                        1888,
+                        1518
+                    ],
+                    [
+                        1913,
+                        1518
+                    ],
+                    [
+                        1923,
+                        1525
+                    ],
+                    [
+                        1931,
+                        1527
+                    ],
+                    [
+                        1942,
+                        1536
+                    ],
+                    [
+                        1933,
+                        1568
+                    ],
+                    [
+                        1927,
+                        1586
+                    ],
+                    [
+                        1868,
+                        1591
+                    ],
+                    [
+                        1848,
+                        1591
+                    ],
+                    [
+                        1816,
+                        1587
+                    ],
+                    [
+                        1799,
+                        1589
+                    ],
+                    [
+                        1778,
+                        1589
+                    ],
+                    [
+                        1776,
+                        1584
+                    ],
+                    [
+                        1775,
+                        1581
+                    ],
+                    [
+                        1760,
+                        1579
+                    ],
+                    [
+                        1694,
+                        1578
+                    ],
+                    [
+                        1670,
+                        1572
+                    ],
+                    [
+                        1663,
+                        1529
+                    ],
+                    [
+                        1666,
+                        1528
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833353,
+            "classId": 6479324,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.208Z",
+            "updatedAt": "2023-10-12T11:51:29.208Z",
+            "tags": [
+                {
+                    "id": 39092944,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.207Z",
+                    "updatedAt": "2023-10-12T11:51:29.207Z"
+                },
+                {
+                    "id": 39092945,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.207Z",
+                    "updatedAt": "2023-10-12T11:51:29.207Z"
+                }
+            ],
+            "classTitle": "pole group",
+            "points": {
+                "exterior": [
+                    [
+                        1894,
+                        1483
+                    ],
+                    [
+                        1893,
+                        1593
+                    ],
+                    [
+                        1947,
+                        1596
+                    ],
+                    [
+                        1951,
+                        1483
+                    ],
+                    [
+                        1894,
+                        1480
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833352,
+            "classId": 6479346,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.207Z",
+            "updatedAt": "2023-10-12T11:51:29.207Z",
+            "tags": [
+                {
+                    "id": 39092942,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.207Z",
+                    "updatedAt": "2023-10-12T11:51:29.207Z"
+                },
+                {
+                    "id": 39092943,
+                    "tagId": 22886,
+                    "name": "vehicle",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.207Z",
+                    "updatedAt": "2023-10-12T11:51:29.207Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        1727,
+                        1567
+                    ],
+                    [
+                        1735,
+                        1567
+                    ],
+                    [
+                        1739,
+                        1568
+                    ],
+                    [
+                        1739,
+                        1570
+                    ],
+                    [
+                        1740,
+                        1579
+                    ],
+                    [
+                        1739,
+                        1583
+                    ],
+                    [
+                        1739,
+                        1584
+                    ],
+                    [
+                        1735,
+                        1585
+                    ],
+                    [
+                        1725,
+                        1585
+                    ],
+                    [
+                        1718,
+                        1585
+                    ],
+                    [
+                        1717,
+                        1583
+                    ],
+                    [
+                        1713,
+                        1575
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833351,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.207Z",
+            "updatedAt": "2023-10-12T11:51:29.207Z",
+            "tags": [
+                {
+                    "id": 39092940,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.207Z",
+                    "updatedAt": "2023-10-12T11:51:29.207Z"
+                },
+                {
+                    "id": 39092941,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.207Z",
+                    "updatedAt": "2023-10-12T11:51:29.207Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        1881,
+                        1530
+                    ],
+                    [
+                        1882,
+                        1603
+                    ],
+                    [
+                        1879,
+                        1604
+                    ],
+                    [
+                        1878,
+                        1530
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833350,
+            "classId": 6479338,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.206Z",
+            "updatedAt": "2023-10-12T11:51:29.206Z",
+            "tags": [
+                {
+                    "id": 39092938,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.206Z",
+                    "updatedAt": "2023-10-12T11:51:29.206Z"
+                },
+                {
+                    "id": 39092939,
+                    "tagId": 22885,
+                    "name": "traffic-sign",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.206Z",
+                    "updatedAt": "2023-10-12T11:51:29.206Z"
+                }
+            ],
+            "classTitle": "traffic sign (front)",
+            "points": {
+                "exterior": [
+                    [
+                        1878,
+                        1516
+                    ],
+                    [
+                        1886,
+                        1524
+                    ],
+                    [
+                        1886,
+                        1535
+                    ],
+                    [
+                        1870,
+                        1535
+                    ],
+                    [
+                        1869,
+                        1527
+                    ],
+                    [
+                        1876,
+                        1516
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833349,
+            "classId": 6479343,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.206Z",
+            "updatedAt": "2023-10-12T11:51:29.206Z",
+            "tags": [
+                {
+                    "id": 39092936,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.206Z",
+                    "updatedAt": "2023-10-12T11:51:29.206Z"
+                },
+                {
+                    "id": 39092937,
+                    "tagId": 22886,
+                    "name": "vehicle",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.206Z",
+                    "updatedAt": "2023-10-12T11:51:29.206Z"
+                }
+            ],
+            "classTitle": "bicycle",
+            "points": {
+                "exterior": [
+                    [
+                        1682,
+                        1610
+                    ],
+                    [
+                        1746,
+                        1624
+                    ],
+                    [
+                        1761,
+                        1662
+                    ],
+                    [
+                        1753,
+                        1662
+                    ],
+                    [
+                        1746,
+                        1647
+                    ],
+                    [
+                        1738,
+                        1697
+                    ],
+                    [
+                        1727,
+                        1704
+                    ],
+                    [
+                        1724,
+                        1692
+                    ],
+                    [
+                        1732,
+                        1646
+                    ],
+                    [
+                        1729,
+                        1632
+                    ],
+                    [
+                        1681,
+                        1628
+                    ],
+                    [
+                        1641,
+                        1877
+                    ],
+                    [
+                        1654,
+                        1944
+                    ],
+                    [
+                        1646,
+                        1984
+                    ],
+                    [
+                        1638,
+                        2011
+                    ],
+                    [
+                        1631,
+                        2034
+                    ],
+                    [
+                        1628,
+                        2039
+                    ],
+                    [
+                        1618,
+                        2042
+                    ],
+                    [
+                        1614,
+                        2022
+                    ],
+                    [
+                        1610,
+                        2012
+                    ],
+                    [
+                        1595,
+                        1996
+                    ],
+                    [
+                        1588,
+                        1988
+                    ],
+                    [
+                        1587,
+                        2004
+                    ],
+                    [
+                        1563,
+                        2105
+                    ],
+                    [
+                        1542,
+                        2127
+                    ],
+                    [
+                        1534,
+                        2124
+                    ],
+                    [
+                        1528,
+                        2105
+                    ],
+                    [
+                        1522,
+                        2079
+                    ],
+                    [
+                        1524,
+                        2011
+                    ],
+                    [
+                        1524,
+                        1955
+                    ],
+                    [
+                        1507,
+                        1953
+                    ],
+                    [
+                        1509,
+                        1939
+                    ],
+                    [
+                        1520,
+                        1938
+                    ],
+                    [
+                        1531,
+                        1832
+                    ],
+                    [
+                        1542,
+                        1794
+                    ],
+                    [
+                        1550,
+                        1765
+                    ],
+                    [
+                        1559,
+                        1742
+                    ],
+                    [
+                        1564,
+                        1724
+                    ],
+                    [
+                        1574,
+                        1669
+                    ],
+                    [
+                        1577,
+                        1652
+                    ],
+                    [
+                        1612,
+                        1600
+                    ],
+                    [
+                        1661,
+                        1603
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833348,
+            "classId": 6479268,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.206Z",
+            "updatedAt": "2023-10-12T11:51:29.206Z",
+            "tags": [
+                {
+                    "id": 39092934,
+                    "tagId": 22870,
+                    "name": "human",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.206Z",
+                    "updatedAt": "2023-10-12T11:51:29.206Z"
+                },
+                {
+                    "id": 39092935,
+                    "tagId": 22871,
+                    "name": "person",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.206Z",
+                    "updatedAt": "2023-10-12T11:51:29.206Z"
+                }
+            ],
+            "classTitle": "person",
+            "points": {
+                "exterior": [
+                    [
+                        1566,
+                        1282
+                    ],
+                    [
+                        1572,
+                        1276
+                    ],
+                    [
+                        1585,
+                        1271
+                    ],
+                    [
+                        1593,
+                        1268
+                    ],
+                    [
+                        1602,
+                        1268
+                    ],
+                    [
+                        1621,
+                        1268
+                    ],
+                    [
+                        1632,
+                        1269
+                    ],
+                    [
+                        1641,
+                        1275
+                    ],
+                    [
+                        1646,
+                        1280
+                    ],
+                    [
+                        1649,
+                        1285
+                    ],
+                    [
+                        1654,
+                        1294
+                    ],
+                    [
+                        1654,
+                        1300
+                    ],
+                    [
+                        1651,
+                        1306
+                    ],
+                    [
+                        1646,
+                        1318
+                    ],
+                    [
+                        1645,
+                        1323
+                    ],
+                    [
+                        1643,
+                        1340
+                    ],
+                    [
+                        1642,
+                        1349
+                    ],
+                    [
+                        1644,
+                        1359
+                    ],
+                    [
+                        1685,
+                        1375
+                    ],
+                    [
+                        1707,
+                        1400
+                    ],
+                    [
+                        1715,
+                        1425
+                    ],
+                    [
+                        1727,
+                        1442
+                    ],
+                    [
+                        1735,
+                        1450
+                    ],
+                    [
+                        1736,
+                        1455
+                    ],
+                    [
+                        1727,
+                        1470
+                    ],
+                    [
+                        1720,
+                        1474
+                    ],
+                    [
+                        1717,
+                        1476
+                    ],
+                    [
+                        1719,
+                        1494
+                    ],
+                    [
+                        1720,
+                        1503
+                    ],
+                    [
+                        1721,
+                        1518
+                    ],
+                    [
+                        1726,
+                        1527
+                    ],
+                    [
+                        1726,
+                        1537
+                    ],
+                    [
+                        1727,
+                        1546
+                    ],
+                    [
+                        1726,
+                        1564
+                    ],
+                    [
+                        1724,
+                        1573
+                    ],
+                    [
+                        1721,
+                        1583
+                    ],
+                    [
+                        1723,
+                        1598
+                    ],
+                    [
+                        1731,
+                        1604
+                    ],
+                    [
+                        1742,
+                        1608
+                    ],
+                    [
+                        1749,
+                        1611
+                    ],
+                    [
+                        1753,
+                        1616
+                    ],
+                    [
+                        1756,
+                        1622
+                    ],
+                    [
+                        1757,
+                        1627
+                    ],
+                    [
+                        1756,
+                        1629
+                    ],
+                    [
+                        1748,
+                        1630
+                    ],
+                    [
+                        1743,
+                        1629
+                    ],
+                    [
+                        1741,
+                        1626
+                    ],
+                    [
+                        1707,
+                        1619
+                    ],
+                    [
+                        1691,
+                        1614
+                    ],
+                    [
+                        1702,
+                        1663
+                    ],
+                    [
+                        1700,
+                        1683
+                    ],
+                    [
+                        1687,
+                        1704
+                    ],
+                    [
+                        1689,
+                        1719
+                    ],
+                    [
+                        1696,
+                        1741
+                    ],
+                    [
+                        1687,
+                        1769
+                    ],
+                    [
+                        1670,
+                        1820
+                    ],
+                    [
+                        1662,
+                        1849
+                    ],
+                    [
+                        1663,
+                        1865
+                    ],
+                    [
+                        1671,
+                        1868
+                    ],
+                    [
+                        1673,
+                        1883
+                    ],
+                    [
+                        1674,
+                        1899
+                    ],
+                    [
+                        1676,
+                        1914
+                    ],
+                    [
+                        1679,
+                        1938
+                    ],
+                    [
+                        1677,
+                        1953
+                    ],
+                    [
+                        1672,
+                        1969
+                    ],
+                    [
+                        1640,
+                        1976
+                    ],
+                    [
+                        1627,
+                        1963
+                    ],
+                    [
+                        1624,
+                        1921
+                    ],
+                    [
+                        1611,
+                        1866
+                    ],
+                    [
+                        1624,
+                        1852
+                    ],
+                    [
+                        1629,
+                        1814
+                    ],
+                    [
+                        1633,
+                        1760
+                    ],
+                    [
+                        1636,
+                        1739
+                    ],
+                    [
+                        1615,
+                        1708
+                    ],
+                    [
+                        1606,
+                        1657
+                    ],
+                    [
+                        1588,
+                        1661
+                    ],
+                    [
+                        1584,
+                        1692
+                    ],
+                    [
+                        1567,
+                        1743
+                    ],
+                    [
+                        1548,
+                        1793
+                    ],
+                    [
+                        1528,
+                        1882
+                    ],
+                    [
+                        1528,
+                        1944
+                    ],
+                    [
+                        1508,
+                        1943
+                    ],
+                    [
+                        1508,
+                        1927
+                    ],
+                    [
+                        1512,
+                        1900
+                    ],
+                    [
+                        1518,
+                        1887
+                    ],
+                    [
+                        1521,
+                        1869
+                    ],
+                    [
+                        1522,
+                        1845
+                    ],
+                    [
+                        1518,
+                        1812
+                    ],
+                    [
+                        1516,
+                        1783
+                    ],
+                    [
+                        1516,
+                        1763
+                    ],
+                    [
+                        1519,
+                        1740
+                    ],
+                    [
+                        1530,
+                        1717
+                    ],
+                    [
+                        1510,
+                        1686
+                    ],
+                    [
+                        1502,
+                        1657
+                    ],
+                    [
+                        1501,
+                        1646
+                    ],
+                    [
+                        1499,
+                        1484
+                    ],
+                    [
+                        1505,
+                        1445
+                    ],
+                    [
+                        1505,
+                        1405
+                    ],
+                    [
+                        1513,
+                        1390
+                    ],
+                    [
+                        1531,
+                        1375
+                    ],
+                    [
+                        1565,
+                        1359
+                    ],
+                    [
+                        1574,
+                        1353
+                    ],
+                    [
+                        1569,
+                        1336
+                    ],
+                    [
+                        1569,
+                        1329
+                    ],
+                    [
+                        1562,
+                        1303
+                    ],
+                    [
+                        1562,
+                        1290
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833347,
+            "classId": 6479357,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.205Z",
+            "updatedAt": "2023-10-12T11:51:29.205Z",
+            "tags": [
+                {
+                    "id": 39092933,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.205Z",
+                    "updatedAt": "2023-10-12T11:51:29.205Z"
+                }
+            ],
+            "classTitle": "dynamic",
+            "points": {
+                "exterior": [
+                    [
+                        1541,
+                        1370
+                    ],
+                    [
+                        1540,
+                        1386
+                    ],
+                    [
+                        1529,
+                        1418
+                    ],
+                    [
+                        1524,
+                        1455
+                    ],
+                    [
+                        1531,
+                        1463
+                    ],
+                    [
+                        1551,
+                        1469
+                    ],
+                    [
+                        1574,
+                        1464
+                    ],
+                    [
+                        1610,
+                        1454
+                    ],
+                    [
+                        1637,
+                        1453
+                    ],
+                    [
+                        1662,
+                        1467
+                    ],
+                    [
+                        1671,
+                        1480
+                    ],
+                    [
+                        1676,
+                        1474
+                    ],
+                    [
+                        1681,
+                        1469
+                    ],
+                    [
+                        1690,
+                        1475
+                    ],
+                    [
+                        1696,
+                        1485
+                    ],
+                    [
+                        1699,
+                        1512
+                    ],
+                    [
+                        1694,
+                        1543
+                    ],
+                    [
+                        1684,
+                        1575
+                    ],
+                    [
+                        1671,
+                        1595
+                    ],
+                    [
+                        1670,
+                        1626
+                    ],
+                    [
+                        1644,
+                        1646
+                    ],
+                    [
+                        1618,
+                        1664
+                    ],
+                    [
+                        1570,
+                        1664
+                    ],
+                    [
+                        1499,
+                        1646
+                    ],
+                    [
+                        1458,
+                        1610
+                    ],
+                    [
+                        1464,
+                        1570
+                    ],
+                    [
+                        1471,
+                        1536
+                    ],
+                    [
+                        1486,
+                        1505
+                    ],
+                    [
+                        1501,
+                        1467
+                    ],
+                    [
+                        1514,
+                        1452
+                    ],
+                    [
+                        1517,
+                        1417
+                    ],
+                    [
+                        1520,
+                        1398
+                    ],
+                    [
+                        1532,
+                        1383
+                    ],
+                    [
+                        1535,
+                        1373
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833346,
+            "classId": 6479357,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.205Z",
+            "updatedAt": "2023-10-12T11:51:29.205Z",
+            "tags": [
+                {
+                    "id": 39092932,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.205Z",
+                    "updatedAt": "2023-10-12T11:51:29.205Z"
+                }
+            ],
+            "classTitle": "dynamic",
+            "points": {
+                "exterior": [
+                    [
+                        1336,
+                        1556
+                    ],
+                    [
+                        1345,
+                        1557
+                    ],
+                    [
+                        1344,
+                        1571
+                    ],
+                    [
+                        1336,
+                        1571
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833345,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.205Z",
+            "updatedAt": "2023-10-12T11:51:29.205Z",
+            "tags": [
+                {
+                    "id": 39092931,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.205Z",
+                    "updatedAt": "2023-10-12T11:51:29.205Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        1344,
+                        1564
+                    ],
+                    [
+                        1357,
+                        1564
+                    ],
+                    [
+                        1357,
+                        1567
+                    ],
+                    [
+                        1355,
+                        1567
+                    ],
+                    [
+                        1354,
+                        1574
+                    ],
+                    [
+                        1351,
+                        1574
+                    ],
+                    [
+                        1351,
+                        1567
+                    ],
+                    [
+                        1343,
+                        1567
+                    ],
+                    [
+                        1343,
+                        1564
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833344,
+            "classId": 6479282,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.204Z",
+            "updatedAt": "2023-10-12T11:51:29.204Z",
+            "tags": [
+                {
+                    "id": 39092928,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.204Z",
+                    "updatedAt": "2023-10-12T11:51:29.204Z"
+                },
+                {
+                    "id": 39092929,
+                    "tagId": 22875,
+                    "name": "discrete",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.204Z",
+                    "updatedAt": "2023-10-12T11:51:29.204Z"
+                },
+                {
+                    "id": 39092930,
+                    "tagId": 22876,
+                    "name": "arrow",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.204Z",
+                    "updatedAt": "2023-10-12T11:51:29.204Z"
+                }
+            ],
+            "classTitle": "lane marking - arrow (straight)",
+            "points": {
+                "exterior": [
+                    [
+                        996,
+                        1669
+                    ],
+                    [
+                        1065,
+                        1664
+                    ],
+                    [
+                        1069,
+                        1662
+                    ],
+                    [
+                        1119,
+                        1661
+                    ],
+                    [
+                        1121,
+                        1674
+                    ],
+                    [
+                        1104,
+                        1672
+                    ],
+                    [
+                        1012,
+                        1680
+                    ],
+                    [
+                        998,
+                        1677
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833343,
+            "classId": 6479273,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.204Z",
+            "updatedAt": "2023-10-12T11:51:29.204Z",
+            "tags": [
+                {
+                    "id": 39092926,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.204Z",
+                    "updatedAt": "2023-10-12T11:51:29.204Z"
+                },
+                {
+                    "id": 39092927,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.204Z",
+                    "updatedAt": "2023-10-12T11:51:29.204Z"
+                }
+            ],
+            "classTitle": "lane marking - dashed line",
+            "points": {
+                "exterior": [
+                    [
+                        1774,
+                        1603
+                    ],
+                    [
+                        1782,
+                        1605
+                    ],
+                    [
+                        1765,
+                        1617
+                    ],
+                    [
+                        1755,
+                        1615
+                    ],
+                    [
+                        1773,
+                        1603
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833342,
+            "classId": 6479302,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.204Z",
+            "updatedAt": "2023-10-12T11:51:29.204Z",
+            "tags": [
+                {
+                    "id": 39092925,
+                    "tagId": 22880,
+                    "name": "nature",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.203Z",
+                    "updatedAt": "2023-10-12T11:51:29.203Z"
+                }
+            ],
+            "classTitle": "vegetation",
+            "points": {
+                "exterior": [
+                    [
+                        2120,
+                        1615
+                    ],
+                    [
+                        2120,
+                        1598
+                    ],
+                    [
+                        2128,
+                        1596
+                    ],
+                    [
+                        2134,
+                        1593
+                    ],
+                    [
+                        2146,
+                        1596
+                    ],
+                    [
+                        2153,
+                        1598
+                    ],
+                    [
+                        2161,
+                        1598
+                    ],
+                    [
+                        2165,
+                        1598
+                    ],
+                    [
+                        2183,
+                        1596
+                    ],
+                    [
+                        2184,
+                        1589
+                    ],
+                    [
+                        2185,
+                        1576
+                    ],
+                    [
+                        2185,
+                        1563
+                    ],
+                    [
+                        2164,
+                        1559
+                    ],
+                    [
+                        2138,
+                        1539
+                    ],
+                    [
+                        2110,
+                        1528
+                    ],
+                    [
+                        2099,
+                        1517
+                    ],
+                    [
+                        2107,
+                        1500
+                    ],
+                    [
+                        2108,
+                        1491
+                    ],
+                    [
+                        2108,
+                        1482
+                    ],
+                    [
+                        2106,
+                        1473
+                    ],
+                    [
+                        2105,
+                        1464
+                    ],
+                    [
+                        2118,
+                        1452
+                    ],
+                    [
+                        2119,
+                        1451
+                    ],
+                    [
+                        2129,
+                        1435
+                    ],
+                    [
+                        2138,
+                        1427
+                    ],
+                    [
+                        2148,
+                        1415
+                    ],
+                    [
+                        2152,
+                        1410
+                    ],
+                    [
+                        2155,
+                        1406
+                    ],
+                    [
+                        2157,
+                        1404
+                    ],
+                    [
+                        2176,
+                        1403
+                    ],
+                    [
+                        2182,
+                        1400
+                    ],
+                    [
+                        2195,
+                        1393
+                    ],
+                    [
+                        2196,
+                        1393
+                    ],
+                    [
+                        2206,
+                        1381
+                    ],
+                    [
+                        2212,
+                        1355
+                    ],
+                    [
+                        2217,
+                        1358
+                    ],
+                    [
+                        2224,
+                        1370
+                    ],
+                    [
+                        2230,
+                        1385
+                    ],
+                    [
+                        2233,
+                        1390
+                    ],
+                    [
+                        2239,
+                        1401
+                    ],
+                    [
+                        2245,
+                        1422
+                    ],
+                    [
+                        2247,
+                        1439
+                    ],
+                    [
+                        2251,
+                        1451
+                    ],
+                    [
+                        2259,
+                        1461
+                    ],
+                    [
+                        2262,
+                        1478
+                    ],
+                    [
+                        2256,
+                        1490
+                    ],
+                    [
+                        2251,
+                        1505
+                    ],
+                    [
+                        2250,
+                        1517
+                    ],
+                    [
+                        2262,
+                        1533
+                    ],
+                    [
+                        2271,
+                        1545
+                    ],
+                    [
+                        2284,
+                        1555
+                    ],
+                    [
+                        2294,
+                        1560
+                    ],
+                    [
+                        2304,
+                        1569
+                    ],
+                    [
+                        2312,
+                        1583
+                    ],
+                    [
+                        2316,
+                        1599
+                    ],
+                    [
+                        2325,
+                        1612
+                    ],
+                    [
+                        2329,
+                        1617
+                    ],
+                    [
+                        2334,
+                        1623
+                    ],
+                    [
+                        2350,
+                        1629
+                    ],
+                    [
+                        2360,
+                        1618
+                    ],
+                    [
+                        2373,
+                        1609
+                    ],
+                    [
+                        2375,
+                        1607
+                    ],
+                    [
+                        2379,
+                        1543
+                    ],
+                    [
+                        2360,
+                        1527
+                    ],
+                    [
+                        2343,
+                        1513
+                    ],
+                    [
+                        2341,
+                        1510
+                    ],
+                    [
+                        2336,
+                        1479
+                    ],
+                    [
+                        2326,
+                        1458
+                    ],
+                    [
+                        2311,
+                        1454
+                    ],
+                    [
+                        2308,
+                        1450
+                    ],
+                    [
+                        2299,
+                        1440
+                    ],
+                    [
+                        2287,
+                        1423
+                    ],
+                    [
+                        2277,
+                        1407
+                    ],
+                    [
+                        2252,
+                        1394
+                    ],
+                    [
+                        2249,
+                        1369
+                    ],
+                    [
+                        2248,
+                        1347
+                    ],
+                    [
+                        2248,
+                        1337
+                    ],
+                    [
+                        2260,
+                        1315
+                    ],
+                    [
+                        2289,
+                        1315
+                    ],
+                    [
+                        2302,
+                        1302
+                    ],
+                    [
+                        2306,
+                        1271
+                    ],
+                    [
+                        2333,
+                        1237
+                    ],
+                    [
+                        2342,
+                        1229
+                    ],
+                    [
+                        2354,
+                        1210
+                    ],
+                    [
+                        2361,
+                        1205
+                    ],
+                    [
+                        2386,
+                        1193
+                    ],
+                    [
+                        2390,
+                        1184
+                    ],
+                    [
+                        2399,
+                        1144
+                    ],
+                    [
+                        2411,
+                        1132
+                    ],
+                    [
+                        2417,
+                        1121
+                    ],
+                    [
+                        2432,
+                        1113
+                    ],
+                    [
+                        2474,
+                        1151
+                    ],
+                    [
+                        2479,
+                        1159
+                    ],
+                    [
+                        2489,
+                        1165
+                    ],
+                    [
+                        2499,
+                        1144
+                    ],
+                    [
+                        2501,
+                        1128
+                    ],
+                    [
+                        2508,
+                        1116
+                    ],
+                    [
+                        2555,
+                        1080
+                    ],
+                    [
+                        2520,
+                        979
+                    ],
+                    [
+                        2509,
+                        944
+                    ],
+                    [
+                        2513,
+                        935
+                    ],
+                    [
+                        2518,
+                        930
+                    ],
+                    [
+                        2523,
+                        924
+                    ],
+                    [
+                        2524,
+                        908
+                    ],
+                    [
+                        2566,
+                        919
+                    ],
+                    [
+                        2566,
+                        919
+                    ],
+                    [
+                        2586,
+                        916
+                    ],
+                    [
+                        2599,
+                        930
+                    ],
+                    [
+                        2599,
+                        946
+                    ],
+                    [
+                        2607,
+                        963
+                    ],
+                    [
+                        2630,
+                        1006
+                    ],
+                    [
+                        2654,
+                        1027
+                    ],
+                    [
+                        2664,
+                        1034
+                    ],
+                    [
+                        2681,
+                        1052
+                    ],
+                    [
+                        2687,
+                        1079
+                    ],
+                    [
+                        2692,
+                        1088
+                    ],
+                    [
+                        2698,
+                        1090
+                    ],
+                    [
+                        2717,
+                        1094
+                    ],
+                    [
+                        2740,
+                        1157
+                    ],
+                    [
+                        2754,
+                        1161
+                    ],
+                    [
+                        2764,
+                        1144
+                    ],
+                    [
+                        2773,
+                        1133
+                    ],
+                    [
+                        2785,
+                        1132
+                    ],
+                    [
+                        2797,
+                        1138
+                    ],
+                    [
+                        2801,
+                        1148
+                    ],
+                    [
+                        2811,
+                        1168
+                    ],
+                    [
+                        2813,
+                        1179
+                    ],
+                    [
+                        2814,
+                        1189
+                    ],
+                    [
+                        2814,
+                        1195
+                    ],
+                    [
+                        2797,
+                        1206
+                    ],
+                    [
+                        2784,
+                        1210
+                    ],
+                    [
+                        2776,
+                        1223
+                    ],
+                    [
+                        2773,
+                        1230
+                    ],
+                    [
+                        2768,
+                        1241
+                    ],
+                    [
+                        2776,
+                        1259
+                    ],
+                    [
+                        2785,
+                        1269
+                    ],
+                    [
+                        2784,
+                        1277
+                    ],
+                    [
+                        2779,
+                        1278
+                    ],
+                    [
+                        2777,
+                        1336
+                    ],
+                    [
+                        2775,
+                        1386
+                    ],
+                    [
+                        2775,
+                        1399
+                    ],
+                    [
+                        2764,
+                        1428
+                    ],
+                    [
+                        2752,
+                        1432
+                    ],
+                    [
+                        2727,
+                        1435
+                    ],
+                    [
+                        2695,
+                        1443
+                    ],
+                    [
+                        2684,
+                        1479
+                    ],
+                    [
+                        2690,
+                        1638
+                    ],
+                    [
+                        2732,
+                        1639
+                    ],
+                    [
+                        2768,
+                        1647
+                    ],
+                    [
+                        2793,
+                        1647
+                    ],
+                    [
+                        2828,
+                        1649
+                    ],
+                    [
+                        2904,
+                        1664
+                    ],
+                    [
+                        2902,
+                        1594
+                    ],
+                    [
+                        2869,
+                        1563
+                    ],
+                    [
+                        2837,
+                        1514
+                    ],
+                    [
+                        2834,
+                        1469
+                    ],
+                    [
+                        2834,
+                        1422
+                    ],
+                    [
+                        2850,
+                        1386
+                    ],
+                    [
+                        2928,
+                        1370
+                    ],
+                    [
+                        2952,
+                        1372
+                    ],
+                    [
+                        2978,
+                        1386
+                    ],
+                    [
+                        2997,
+                        1415
+                    ],
+                    [
+                        3008,
+                        1455
+                    ],
+                    [
+                        3015,
+                        1486
+                    ],
+                    [
+                        3025,
+                        1506
+                    ],
+                    [
+                        3074,
+                        1516
+                    ],
+                    [
+                        3086,
+                        1502
+                    ],
+                    [
+                        3070,
+                        1446
+                    ],
+                    [
+                        3102,
+                        1396
+                    ],
+                    [
+                        3107,
+                        1391
+                    ],
+                    [
+                        3100,
+                        1353
+                    ],
+                    [
+                        3095,
+                        1326
+                    ],
+                    [
+                        3084,
+                        1295
+                    ],
+                    [
+                        3074,
+                        1267
+                    ],
+                    [
+                        3074,
+                        1238
+                    ],
+                    [
+                        3084,
+                        1201
+                    ],
+                    [
+                        3090,
+                        1175
+                    ],
+                    [
+                        3090,
+                        1114
+                    ],
+                    [
+                        3076,
+                        1093
+                    ],
+                    [
+                        3070,
+                        1048
+                    ],
+                    [
+                        3047,
+                        1001
+                    ],
+                    [
+                        3084,
+                        960
+                    ],
+                    [
+                        3095,
+                        910
+                    ],
+                    [
+                        3099,
+                        887
+                    ],
+                    [
+                        3106,
+                        800
+                    ],
+                    [
+                        3151,
+                        633
+                    ],
+                    [
+                        3159,
+                        633
+                    ],
+                    [
+                        3112,
+                        822
+                    ],
+                    [
+                        3105,
+                        887
+                    ],
+                    [
+                        3113,
+                        949
+                    ],
+                    [
+                        3142,
+                        958
+                    ],
+                    [
+                        3159,
+                        914
+                    ],
+                    [
+                        3165,
+                        924
+                    ],
+                    [
+                        3153,
+                        984
+                    ],
+                    [
+                        3180,
+                        982
+                    ],
+                    [
+                        3183,
+                        928
+                    ],
+                    [
+                        3192,
+                        933
+                    ],
+                    [
+                        3184,
+                        1071
+                    ],
+                    [
+                        3161,
+                        1131
+                    ],
+                    [
+                        3164,
+                        1146
+                    ],
+                    [
+                        3181,
+                        1129
+                    ],
+                    [
+                        3213,
+                        1012
+                    ],
+                    [
+                        3243,
+                        928
+                    ],
+                    [
+                        3263,
+                        919
+                    ],
+                    [
+                        3263,
+                        969
+                    ],
+                    [
+                        3181,
+                        1197
+                    ],
+                    [
+                        3199,
+                        1199
+                    ],
+                    [
+                        3216,
+                        1143
+                    ],
+                    [
+                        3237,
+                        1143
+                    ],
+                    [
+                        3259,
+                        1140
+                    ],
+                    [
+                        3263,
+                        1142
+                    ],
+                    [
+                        3263,
+                        1232
+                    ],
+                    [
+                        3241,
+                        1249
+                    ],
+                    [
+                        3233,
+                        1279
+                    ],
+                    [
+                        3232,
+                        1296
+                    ],
+                    [
+                        3232,
+                        1302
+                    ],
+                    [
+                        3229,
+                        1318
+                    ],
+                    [
+                        3230,
+                        1331
+                    ],
+                    [
+                        3230,
+                        1342
+                    ],
+                    [
+                        3225,
+                        1355
+                    ],
+                    [
+                        3223,
+                        1371
+                    ],
+                    [
+                        3218,
+                        1387
+                    ],
+                    [
+                        3213,
+                        1400
+                    ],
+                    [
+                        3213,
+                        1419
+                    ],
+                    [
+                        3203,
+                        1430
+                    ],
+                    [
+                        3196,
+                        1444
+                    ],
+                    [
+                        3190,
+                        1470
+                    ],
+                    [
+                        3196,
+                        1492
+                    ],
+                    [
+                        3196,
+                        1503
+                    ],
+                    [
+                        3188,
+                        1534
+                    ],
+                    [
+                        3200,
+                        1582
+                    ],
+                    [
+                        3211,
+                        1607
+                    ],
+                    [
+                        3211,
+                        1618
+                    ],
+                    [
+                        3216,
+                        1637
+                    ],
+                    [
+                        3237,
+                        1651
+                    ],
+                    [
+                        3252,
+                        1661
+                    ],
+                    [
+                        3263,
+                        1684
+                    ],
+                    [
+                        3263,
+                        1751
+                    ],
+                    [
+                        3263,
+                        2074
+                    ],
+                    [
+                        3011,
+                        1981
+                    ],
+                    [
+                        2722,
+                        1865
+                    ],
+                    [
+                        2632,
+                        1837
+                    ],
+                    [
+                        2455,
+                        1761
+                    ],
+                    [
+                        2340,
+                        1714
+                    ],
+                    [
+                        2304,
+                        1702
+                    ],
+                    [
+                        2283,
+                        1690
+                    ],
+                    [
+                        2257,
+                        1684
+                    ],
+                    [
+                        2232,
+                        1677
+                    ],
+                    [
+                        2211,
+                        1639
+                    ],
+                    [
+                        2198,
+                        1635
+                    ],
+                    [
+                        2178,
+                        1627
+                    ],
+                    [
+                        2150,
+                        1624
+                    ],
+                    [
+                        2133,
+                        1624
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833341,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.203Z",
+            "updatedAt": "2023-10-12T11:51:29.203Z",
+            "tags": [
+                {
+                    "id": 39092923,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.203Z",
+                    "updatedAt": "2023-10-12T11:51:29.203Z"
+                },
+                {
+                    "id": 39092924,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.203Z",
+                    "updatedAt": "2023-10-12T11:51:29.203Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        2077,
+                        1283
+                    ],
+                    [
+                        2181,
+                        1290
+                    ],
+                    [
+                        2172,
+                        1631
+                    ],
+                    [
+                        2163,
+                        1632
+                    ],
+                    [
+                        2174,
+                        1295
+                    ],
+                    [
+                        2084,
+                        1288
+                    ],
+                    [
+                        2084,
+                        1293
+                    ],
+                    [
+                        2079,
+                        1294
+                    ],
+                    [
+                        2079,
+                        1288
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833340,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.203Z",
+            "updatedAt": "2023-10-12T11:51:29.203Z",
+            "tags": [
+                {
+                    "id": 39092922,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.203Z",
+                    "updatedAt": "2023-10-12T11:51:29.203Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        2077,
+                        1290
+                    ],
+                    [
+                        2085,
+                        1291
+                    ],
+                    [
+                        2090,
+                        1302
+                    ],
+                    [
+                        2089,
+                        1304
+                    ],
+                    [
+                        2070,
+                        1305
+                    ],
+                    [
+                        2068,
+                        1301
+                    ],
+                    [
+                        2072,
+                        1294
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833339,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.202Z",
+            "updatedAt": "2023-10-12T11:51:29.202Z",
+            "tags": [
+                {
+                    "id": 39092921,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.202Z",
+                    "updatedAt": "2023-10-12T11:51:29.202Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        2220,
+                        1566
+                    ],
+                    [
+                        2294,
+                        1574
+                    ],
+                    [
+                        2288,
+                        1675
+                    ],
+                    [
+                        2209,
+                        1670
+                    ],
+                    [
+                        2215,
+                        1568
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833338,
+            "classId": 6479317,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.202Z",
+            "updatedAt": "2023-10-12T11:51:29.202Z",
+            "tags": [
+                {
+                    "id": 39092919,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.202Z",
+                    "updatedAt": "2023-10-12T11:51:29.202Z"
+                },
+                {
+                    "id": 39092920,
+                    "tagId": 22882,
+                    "name": "sign",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.202Z",
+                    "updatedAt": "2023-10-12T11:51:29.202Z"
+                }
+            ],
+            "classTitle": "signage - ambiguous",
+            "points": {
+                "exterior": [
+                    [
+                        2214,
+                        1559
+                    ],
+                    [
+                        2292,
+                        1566
+                    ],
+                    [
+                        2290,
+                        1644
+                    ],
+                    [
+                        2262,
+                        1655
+                    ],
+                    [
+                        2208,
+                        1650
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833337,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.201Z",
+            "updatedAt": "2023-10-12T11:51:29.201Z",
+            "tags": [
+                {
+                    "id": 39092917,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.201Z",
+                    "updatedAt": "2023-10-12T11:51:29.201Z"
+                },
+                {
+                    "id": 39092918,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.201Z",
+                    "updatedAt": "2023-10-12T11:51:29.201Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        2128,
+                        1038
+                    ],
+                    [
+                        2310,
+                        1051
+                    ],
+                    [
+                        2294,
+                        1677
+                    ],
+                    [
+                        2285,
+                        1677
+                    ],
+                    [
+                        2302,
+                        1057
+                    ],
+                    [
+                        2137,
+                        1044
+                    ],
+                    [
+                        2136,
+                        1052
+                    ],
+                    [
+                        2132,
+                        1052
+                    ],
+                    [
+                        2133,
+                        1045
+                    ],
+                    [
+                        2127,
+                        1045
+                    ],
+                    [
+                        2127,
+                        1040
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833336,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.201Z",
+            "updatedAt": "2023-10-12T11:51:29.201Z",
+            "tags": [
+                {
+                    "id": 39092916,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.201Z",
+                    "updatedAt": "2023-10-12T11:51:29.201Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        2121,
+                        1055
+                    ],
+                    [
+                        2130,
+                        1051
+                    ],
+                    [
+                        2138,
+                        1050
+                    ],
+                    [
+                        2143,
+                        1054
+                    ],
+                    [
+                        2147,
+                        1061
+                    ],
+                    [
+                        2152,
+                        1071
+                    ],
+                    [
+                        2152,
+                        1078
+                    ],
+                    [
+                        2144,
+                        1078
+                    ],
+                    [
+                        2121,
+                        1077
+                    ],
+                    [
+                        2115,
+                        1073
+                    ],
+                    [
+                        2115,
+                        1065
+                    ],
+                    [
+                        2118,
+                        1060
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833335,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.200Z",
+            "updatedAt": "2023-10-12T11:51:29.200Z",
+            "tags": [
+                {
+                    "id": 39092915,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.200Z",
+                    "updatedAt": "2023-10-12T11:51:29.200Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        2645,
+                        2018
+                    ],
+                    [
+                        2665,
+                        950
+                    ],
+                    [
+                        2511,
+                        945
+                    ],
+                    [
+                        2511,
+                        974
+                    ],
+                    [
+                        2487,
+                        2010
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833334,
+            "classId": 6479316,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.200Z",
+            "updatedAt": "2023-10-12T11:51:29.200Z",
+            "tags": [
+                {
+                    "id": 39092913,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.200Z",
+                    "updatedAt": "2023-10-12T11:51:29.200Z"
+                },
+                {
+                    "id": 39092914,
+                    "tagId": 22882,
+                    "name": "sign",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.200Z",
+                    "updatedAt": "2023-10-12T11:51:29.200Z"
+                }
+            ],
+            "classTitle": "signage - advertisement",
+            "points": {
+                "exterior": [
+                    [
+                        2532,
+                        951
+                    ],
+                    [
+                        2658,
+                        954
+                    ],
+                    [
+                        2650,
+                        1186
+                    ],
+                    [
+                        2515,
+                        1181
+                    ],
+                    [
+                        2522,
+                        951
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833333,
+            "classId": 6479316,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.199Z",
+            "updatedAt": "2023-10-12T11:51:29.199Z",
+            "tags": [
+                {
+                    "id": 39092911,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.199Z",
+                    "updatedAt": "2023-10-12T11:51:29.199Z"
+                },
+                {
+                    "id": 39092912,
+                    "tagId": 22882,
+                    "name": "sign",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.199Z",
+                    "updatedAt": "2023-10-12T11:51:29.199Z"
+                }
+            ],
+            "classTitle": "signage - advertisement",
+            "points": {
+                "exterior": [
+                    [
+                        2538,
+                        1198
+                    ],
+                    [
+                        2631,
+                        1205
+                    ],
+                    [
+                        2631,
+                        1234
+                    ],
+                    [
+                        2538,
+                        1230
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833332,
+            "classId": 6479316,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.199Z",
+            "updatedAt": "2023-10-12T11:51:29.199Z",
+            "tags": [
+                {
+                    "id": 39092909,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.199Z",
+                    "updatedAt": "2023-10-12T11:51:29.199Z"
+                },
+                {
+                    "id": 39092910,
+                    "tagId": 22882,
+                    "name": "sign",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.199Z",
+                    "updatedAt": "2023-10-12T11:51:29.199Z"
+                }
+            ],
+            "classTitle": "signage - advertisement",
+            "points": {
+                "exterior": [
+                    [
+                        2531,
+                        1263
+                    ],
+                    [
+                        2612,
+                        1269
+                    ],
+                    [
+                        2613,
+                        1293
+                    ],
+                    [
+                        2640,
+                        1301
+                    ],
+                    [
+                        2637,
+                        1546
+                    ],
+                    [
+                        2518,
+                        1539
+                    ],
+                    [
+                        2523,
+                        1265
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833331,
+            "classId": 6479316,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.199Z",
+            "updatedAt": "2023-10-12T11:51:29.199Z",
+            "tags": [
+                {
+                    "id": 39092907,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.199Z",
+                    "updatedAt": "2023-10-12T11:51:29.199Z"
+                },
+                {
+                    "id": 39092908,
+                    "tagId": 22882,
+                    "name": "sign",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.199Z",
+                    "updatedAt": "2023-10-12T11:51:29.199Z"
+                }
+            ],
+            "classTitle": "signage - advertisement",
+            "points": {
+                "exterior": [
+                    [
+                        2519,
+                        1557
+                    ],
+                    [
+                        2638,
+                        1566
+                    ],
+                    [
+                        2630,
+                        1730
+                    ],
+                    [
+                        2511,
+                        1722
+                    ],
+                    [
+                        2518,
+                        1560
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833330,
+            "classId": 6479242,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.199Z",
+            "updatedAt": "2023-10-12T11:51:29.199Z",
+            "tags": [
+                {
+                    "id": 39092905,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.198Z",
+                    "updatedAt": "2023-10-12T11:51:29.198Z"
+                },
+                {
+                    "id": 39092906,
+                    "tagId": 22867,
+                    "name": "barrier",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.198Z",
+                    "updatedAt": "2023-10-12T11:51:29.198Z"
+                }
+            ],
+            "classTitle": "curb",
+            "points": {
+                "exterior": [
+                    [
+                        2576,
+                        2446
+                    ],
+                    [
+                        2223,
+                        1906
+                    ],
+                    [
+                        2059,
+                        1657
+                    ],
+                    [
+                        2053,
+                        1648
+                    ],
+                    [
+                        2032,
+                        1648
+                    ],
+                    [
+                        2054,
+                        1699
+                    ],
+                    [
+                        2285,
+                        2190
+                    ],
+                    [
+                        2416,
+                        2447
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833329,
+            "classId": 6479276,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.198Z",
+            "updatedAt": "2023-10-12T11:51:29.198Z",
+            "tags": [
+                {
+                    "id": 39092903,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.198Z",
+                    "updatedAt": "2023-10-12T11:51:29.198Z"
+                },
+                {
+                    "id": 39092904,
+                    "tagId": 22875,
+                    "name": "discrete",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.198Z",
+                    "updatedAt": "2023-10-12T11:51:29.198Z"
+                }
+            ],
+            "classTitle": "lane marking - ambiguous",
+            "points": {
+                "exterior": [
+                    [
+                        1928,
+                        1643
+                    ],
+                    [
+                        2029,
+                        1650
+                    ],
+                    [
+                        2028,
+                        1657
+                    ],
+                    [
+                        1924,
+                        1647
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833328,
+            "classId": 6479291,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.198Z",
+            "updatedAt": "2023-10-12T11:51:29.198Z",
+            "tags": [
+                {
+                    "id": 39092900,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.198Z",
+                    "updatedAt": "2023-10-12T11:51:29.198Z"
+                },
+                {
+                    "id": 39092901,
+                    "tagId": 22875,
+                    "name": "discrete",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.198Z",
+                    "updatedAt": "2023-10-12T11:51:29.198Z"
+                },
+                {
+                    "id": 39092902,
+                    "tagId": 22878,
+                    "name": "symbol",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.198Z",
+                    "updatedAt": "2023-10-12T11:51:29.198Z"
+                }
+            ],
+            "classTitle": "lane marking - symbol (other)",
+            "points": {
+                "exterior": [
+                    [
+                        1910,
+                        1656
+                    ],
+                    [
+                        2024,
+                        1666
+                    ],
+                    [
+                        2021,
+                        1672
+                    ],
+                    [
+                        1903,
+                        1663
+                    ],
+                    [
+                        1906,
+                        1657
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833327,
+            "classId": 6479346,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.197Z",
+            "updatedAt": "2023-10-12T11:51:29.197Z",
+            "tags": [
+                {
+                    "id": 39092898,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.197Z",
+                    "updatedAt": "2023-10-12T11:51:29.197Z"
+                },
+                {
+                    "id": 39092899,
+                    "tagId": 22886,
+                    "name": "vehicle",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.197Z",
+                    "updatedAt": "2023-10-12T11:51:29.197Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        1831,
+                        1571
+                    ],
+                    [
+                        1840,
+                        1570
+                    ],
+                    [
+                        1845,
+                        1571
+                    ],
+                    [
+                        1849,
+                        1573
+                    ],
+                    [
+                        1850,
+                        1574
+                    ],
+                    [
+                        1849,
+                        1591
+                    ],
+                    [
+                        1845,
+                        1591
+                    ],
+                    [
+                        1831,
+                        1590
+                    ],
+                    [
+                        1828,
+                        1586
+                    ],
+                    [
+                        1829,
+                        1578
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833326,
+            "classId": 6479345,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.197Z",
+            "updatedAt": "2023-10-12T11:51:29.197Z",
+            "tags": [
+                {
+                    "id": 39092896,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.197Z",
+                    "updatedAt": "2023-10-12T11:51:29.197Z"
+                },
+                {
+                    "id": 39092897,
+                    "tagId": 22886,
+                    "name": "vehicle",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.197Z",
+                    "updatedAt": "2023-10-12T11:51:29.197Z"
+                }
+            ],
+            "classTitle": "bus",
+            "points": {
+                "exterior": [
+                    [
+                        1780,
+                        1541
+                    ],
+                    [
+                        1784,
+                        1539
+                    ],
+                    [
+                        1788,
+                        1538
+                    ],
+                    [
+                        1819,
+                        1539
+                    ],
+                    [
+                        1822,
+                        1540
+                    ],
+                    [
+                        1836,
+                        1547
+                    ],
+                    [
+                        1835,
+                        1579
+                    ],
+                    [
+                        1831,
+                        1583
+                    ],
+                    [
+                        1830,
+                        1590
+                    ],
+                    [
+                        1822,
+                        1590
+                    ],
+                    [
+                        1814,
+                        1590
+                    ],
+                    [
+                        1813,
+                        1588
+                    ],
+                    [
+                        1797,
+                        1587
+                    ],
+                    [
+                        1796,
+                        1590
+                    ],
+                    [
+                        1784,
+                        1590
+                    ],
+                    [
+                        1781,
+                        1590
+                    ],
+                    [
+                        1779,
+                        1589
+                    ],
+                    [
+                        1778,
+                        1586
+                    ],
+                    [
+                        1777,
+                        1582
+                    ],
+                    [
+                        1778,
+                        1557
+                    ],
+                    [
+                        1774,
+                        1554
+                    ],
+                    [
+                        1774,
+                        1550
+                    ],
+                    [
+                        1776,
+                        1547
+                    ],
+                    [
+                        1779,
+                        1545
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833325,
+            "classId": 6479277,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.197Z",
+            "updatedAt": "2023-10-12T11:51:29.197Z",
+            "tags": [
+                {
+                    "id": 39092893,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.197Z",
+                    "updatedAt": "2023-10-12T11:51:29.197Z"
+                },
+                {
+                    "id": 39092894,
+                    "tagId": 22875,
+                    "name": "discrete",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.197Z",
+                    "updatedAt": "2023-10-12T11:51:29.197Z"
+                },
+                {
+                    "id": 39092895,
+                    "tagId": 22876,
+                    "name": "arrow",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.197Z",
+                    "updatedAt": "2023-10-12T11:51:29.197Z"
+                }
+            ],
+            "classTitle": "lane marking - arrow (left)",
+            "points": {
+                "exterior": [
+                    [
+                        1271,
+                        1617
+                    ],
+                    [
+                        1286,
+                        1614
+                    ],
+                    [
+                        1303,
+                        1616
+                    ],
+                    [
+                        1311,
+                        1618
+                    ],
+                    [
+                        1312,
+                        1620
+                    ],
+                    [
+                        1301,
+                        1622
+                    ],
+                    [
+                        1274,
+                        1623
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 71833324,
+            "classId": 6479323,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T11:51:29.196Z",
+            "updatedAt": "2023-10-12T11:51:29.196Z",
+            "tags": [
+                {
+                    "id": 39092891,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.196Z",
+                    "updatedAt": "2023-10-12T11:51:29.196Z"
+                },
+                {
+                    "id": 39092892,
+                    "tagId": 22883,
+                    "name": "support",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T11:51:29.196Z",
+                    "updatedAt": "2023-10-12T11:51:29.196Z"
+                }
+            ],
+            "classTitle": "pole",
+            "points": {
+                "exterior": [
+                    [
+                        841,
+                        1458
+                    ],
+                    [
+                        838,
+                        1559
+                    ],
+                    [
+                        837,
+                        1567
+                    ],
+                    [
+                        827,
+                        1565
+                    ],
+                    [
+                        835,
+                        1458
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

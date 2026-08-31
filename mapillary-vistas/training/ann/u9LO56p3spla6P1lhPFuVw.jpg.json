@@ -1,0 +1,4227 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2448,
+        "width": 3264
+    },
+    "objects": [
+        {
+            "id": 72639642,
+            "classId": 6479267,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.945Z",
+            "updatedAt": "2023-10-12T12:49:02.945Z",
+            "tags": [
+                {
+                    "id": 40485746,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.944Z",
+                    "updatedAt": "2023-10-12T12:49:02.944Z"
+                },
+                {
+                    "id": 40485747,
+                    "tagId": 22869,
+                    "name": "structure",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.944Z",
+                    "updatedAt": "2023-10-12T12:49:02.944Z"
+                }
+            ],
+            "classTitle": "tunnel",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        3263,
+                        0
+                    ],
+                    [
+                        3263,
+                        2230
+                    ],
+                    [
+                        3263,
+                        2251
+                    ],
+                    [
+                        2849,
+                        2181
+                    ],
+                    [
+                        2226,
+                        2054
+                    ],
+                    [
+                        1623,
+                        1931
+                    ],
+                    [
+                        1520,
+                        1911
+                    ],
+                    [
+                        1469,
+                        1902
+                    ],
+                    [
+                        1389,
+                        1889
+                    ],
+                    [
+                        1396,
+                        1882
+                    ],
+                    [
+                        1410,
+                        1879
+                    ],
+                    [
+                        1419,
+                        1878
+                    ],
+                    [
+                        1414,
+                        1872
+                    ],
+                    [
+                        1408,
+                        1873
+                    ],
+                    [
+                        1409,
+                        1869
+                    ],
+                    [
+                        1411,
+                        1867
+                    ],
+                    [
+                        1412,
+                        1866
+                    ],
+                    [
+                        1414,
+                        1859
+                    ],
+                    [
+                        1410,
+                        1851
+                    ],
+                    [
+                        1401,
+                        1858
+                    ],
+                    [
+                        1406,
+                        1869
+                    ],
+                    [
+                        1399,
+                        1873
+                    ],
+                    [
+                        1393,
+                        1872
+                    ],
+                    [
+                        1392,
+                        1863
+                    ],
+                    [
+                        1387,
+                        1865
+                    ],
+                    [
+                        1384,
+                        1860
+                    ],
+                    [
+                        1383,
+                        1856
+                    ],
+                    [
+                        1376,
+                        1853
+                    ],
+                    [
+                        1368,
+                        1850
+                    ],
+                    [
+                        1352,
+                        1854
+                    ],
+                    [
+                        1350,
+                        1856
+                    ],
+                    [
+                        1351,
+                        1852
+                    ],
+                    [
+                        1365,
+                        1848
+                    ],
+                    [
+                        1373,
+                        1847
+                    ],
+                    [
+                        1383,
+                        1850
+                    ],
+                    [
+                        1391,
+                        1855
+                    ],
+                    [
+                        1389,
+                        1852
+                    ],
+                    [
+                        1387,
+                        1849
+                    ],
+                    [
+                        1385,
+                        1847
+                    ],
+                    [
+                        1387,
+                        1846
+                    ],
+                    [
+                        1391,
+                        1847
+                    ],
+                    [
+                        1395,
+                        1852
+                    ],
+                    [
+                        1404,
+                        1845
+                    ],
+                    [
+                        1399,
+                        1837
+                    ],
+                    [
+                        1382,
+                        1829
+                    ],
+                    [
+                        1371,
+                        1828
+                    ],
+                    [
+                        1366,
+                        1829
+                    ],
+                    [
+                        1368,
+                        1834
+                    ],
+                    [
+                        1380,
+                        1836
+                    ],
+                    [
+                        1380,
+                        1838
+                    ],
+                    [
+                        1358,
+                        1841
+                    ],
+                    [
+                        1350,
+                        1845
+                    ],
+                    [
+                        1346,
+                        1848
+                    ],
+                    [
+                        1344,
+                        1850
+                    ],
+                    [
+                        1346,
+                        1855
+                    ],
+                    [
+                        1349,
+                        1859
+                    ],
+                    [
+                        1346,
+                        1864
+                    ],
+                    [
+                        1338,
+                        1856
+                    ],
+                    [
+                        1338,
+                        1860
+                    ],
+                    [
+                        1336,
+                        1865
+                    ],
+                    [
+                        1338,
+                        1867
+                    ],
+                    [
+                        1333,
+                        1870
+                    ],
+                    [
+                        1333,
+                        1875
+                    ],
+                    [
+                        1336,
+                        1875
+                    ],
+                    [
+                        1344,
+                        1882
+                    ],
+                    [
+                        1339,
+                        1882
+                    ],
+                    [
+                        1339,
+                        1883
+                    ],
+                    [
+                        1338,
+                        1889
+                    ],
+                    [
+                        1342,
+                        1888
+                    ],
+                    [
+                        1345,
+                        1888
+                    ],
+                    [
+                        1297,
+                        1909
+                    ],
+                    [
+                        930,
+                        2051
+                    ],
+                    [
+                        382,
+                        2279
+                    ],
+                    [
+                        0,
+                        2435
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639641,
+            "classId": 6479259,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.944Z",
+            "updatedAt": "2023-10-12T12:49:02.944Z",
+            "tags": [
+                {
+                    "id": 40485744,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.944Z",
+                    "updatedAt": "2023-10-12T12:49:02.944Z"
+                },
+                {
+                    "id": 40485745,
+                    "tagId": 22868,
+                    "name": "flat",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.944Z",
+                    "updatedAt": "2023-10-12T12:49:02.944Z"
+                }
+            ],
+            "classTitle": "road",
+            "points": {
+                "exterior": [
+                    [
+                        1339,
+                        1889
+                    ],
+                    [
+                        1334,
+                        1891
+                    ],
+                    [
+                        1306,
+                        1899
+                    ],
+                    [
+                        1118,
+                        1976
+                    ],
+                    [
+                        654,
+                        2167
+                    ],
+                    [
+                        287,
+                        2320
+                    ],
+                    [
+                        0,
+                        2439
+                    ],
+                    [
+                        291,
+                        2447
+                    ],
+                    [
+                        3263,
+                        2447
+                    ],
+                    [
+                        3263,
+                        2259
+                    ],
+                    [
+                        2759,
+                        2156
+                    ],
+                    [
+                        1963,
+                        1994
+                    ],
+                    [
+                        1785,
+                        1961
+                    ],
+                    [
+                        1564,
+                        1918
+                    ],
+                    [
+                        1477,
+                        1902
+                    ],
+                    [
+                        1412,
+                        1892
+                    ],
+                    [
+                        1401,
+                        1889
+                    ],
+                    [
+                        1397,
+                        1888
+                    ],
+                    [
+                        1392,
+                        1888
+                    ],
+                    [
+                        1387,
+                        1892
+                    ],
+                    [
+                        1384,
+                        1890
+                    ],
+                    [
+                        1379,
+                        1891
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639640,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.944Z",
+            "updatedAt": "2023-10-12T12:49:02.944Z",
+            "tags": [
+                {
+                    "id": 40485743,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.944Z",
+                    "updatedAt": "2023-10-12T12:49:02.944Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        3013,
+                        709
+                    ],
+                    [
+                        3124,
+                        787
+                    ],
+                    [
+                        3149,
+                        787
+                    ],
+                    [
+                        3263,
+                        717
+                    ],
+                    [
+                        3263,
+                        582
+                    ],
+                    [
+                        3239,
+                        569
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639639,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.944Z",
+            "updatedAt": "2023-10-12T12:49:02.944Z",
+            "tags": [
+                {
+                    "id": 40485742,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.944Z",
+                    "updatedAt": "2023-10-12T12:49:02.944Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        2443,
+                        1115
+                    ],
+                    [
+                        2517,
+                        1164
+                    ],
+                    [
+                        2619,
+                        1106
+                    ],
+                    [
+                        2533,
+                        1053
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639638,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.943Z",
+            "updatedAt": "2023-10-12T12:49:02.943Z",
+            "tags": [
+                {
+                    "id": 40485741,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.943Z",
+                    "updatedAt": "2023-10-12T12:49:02.943Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        2293,
+                        1226
+                    ],
+                    [
+                        2314,
+                        1252
+                    ],
+                    [
+                        2347,
+                        1268
+                    ],
+                    [
+                        2395,
+                        1236
+                    ],
+                    [
+                        2395,
+                        1219
+                    ],
+                    [
+                        2356,
+                        1182
+                    ],
+                    [
+                        2340,
+                        1187
+                    ],
+                    [
+                        2319,
+                        1194
+                    ],
+                    [
+                        2298,
+                        1208
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639637,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.942Z",
+            "updatedAt": "2023-10-12T12:49:02.942Z",
+            "tags": [
+                {
+                    "id": 40485740,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.942Z",
+                    "updatedAt": "2023-10-12T12:49:02.942Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        2152,
+                        1317
+                    ],
+                    [
+                        2205,
+                        1356
+                    ],
+                    [
+                        2254,
+                        1321
+                    ],
+                    [
+                        2256,
+                        1310
+                    ],
+                    [
+                        2217,
+                        1275
+                    ],
+                    [
+                        2189,
+                        1287
+                    ],
+                    [
+                        2175,
+                        1298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639636,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.942Z",
+            "updatedAt": "2023-10-12T12:49:02.942Z",
+            "tags": [
+                {
+                    "id": 40485739,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.942Z",
+                    "updatedAt": "2023-10-12T12:49:02.942Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1990,
+                        1432
+                    ],
+                    [
+                        2033,
+                        1462
+                    ],
+                    [
+                        2065,
+                        1439
+                    ],
+                    [
+                        2028,
+                        1410
+                    ],
+                    [
+                        2025,
+                        1408
+                    ],
+                    [
+                        2016,
+                        1403
+                    ],
+                    [
+                        2004,
+                        1415
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639635,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.942Z",
+            "updatedAt": "2023-10-12T12:49:02.942Z",
+            "tags": [
+                {
+                    "id": 40485738,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.942Z",
+                    "updatedAt": "2023-10-12T12:49:02.942Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1953,
+                        1448
+                    ],
+                    [
+                        1992,
+                        1476
+                    ],
+                    [
+                        1985,
+                        1493
+                    ],
+                    [
+                        1967,
+                        1500
+                    ],
+                    [
+                        1936,
+                        1472
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639634,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.942Z",
+            "updatedAt": "2023-10-12T12:49:02.942Z",
+            "tags": [
+                {
+                    "id": 40485737,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.941Z",
+                    "updatedAt": "2023-10-12T12:49:02.941Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1901,
+                        1483
+                    ],
+                    [
+                        1938,
+                        1512
+                    ],
+                    [
+                        1919,
+                        1535
+                    ],
+                    [
+                        1889,
+                        1521
+                    ],
+                    [
+                        1884,
+                        1507
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639633,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.941Z",
+            "updatedAt": "2023-10-12T12:49:02.941Z",
+            "tags": [
+                {
+                    "id": 40485736,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.941Z",
+                    "updatedAt": "2023-10-12T12:49:02.941Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1805,
+                        1561
+                    ],
+                    [
+                        1819,
+                        1547
+                    ],
+                    [
+                        1846,
+                        1561
+                    ],
+                    [
+                        1847,
+                        1577
+                    ],
+                    [
+                        1834,
+                        1583
+                    ],
+                    [
+                        1811,
+                        1574
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639632,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.941Z",
+            "updatedAt": "2023-10-12T12:49:02.941Z",
+            "tags": [
+                {
+                    "id": 40485735,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.941Z",
+                    "updatedAt": "2023-10-12T12:49:02.941Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1780,
+                        1575
+                    ],
+                    [
+                        1798,
+                        1574
+                    ],
+                    [
+                        1815,
+                        1591
+                    ],
+                    [
+                        1808,
+                        1602
+                    ],
+                    [
+                        1786,
+                        1595
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639631,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.940Z",
+            "updatedAt": "2023-10-12T12:49:02.940Z",
+            "tags": [
+                {
+                    "id": 40485734,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.940Z",
+                    "updatedAt": "2023-10-12T12:49:02.940Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1759,
+                        1593
+                    ],
+                    [
+                        1766,
+                        1594
+                    ],
+                    [
+                        1785,
+                        1606
+                    ],
+                    [
+                        1785,
+                        1612
+                    ],
+                    [
+                        1774,
+                        1621
+                    ],
+                    [
+                        1752,
+                        1610
+                    ],
+                    [
+                        1750,
+                        1598
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639630,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.940Z",
+            "updatedAt": "2023-10-12T12:49:02.940Z",
+            "tags": [
+                {
+                    "id": 40485733,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.940Z",
+                    "updatedAt": "2023-10-12T12:49:02.940Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1708,
+                        1622
+                    ],
+                    [
+                        1723,
+                        1627
+                    ],
+                    [
+                        1736,
+                        1636
+                    ],
+                    [
+                        1735,
+                        1649
+                    ],
+                    [
+                        1722,
+                        1653
+                    ],
+                    [
+                        1703,
+                        1637
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639629,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.940Z",
+            "updatedAt": "2023-10-12T12:49:02.940Z",
+            "tags": [
+                {
+                    "id": 40485732,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.940Z",
+                    "updatedAt": "2023-10-12T12:49:02.940Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1689,
+                        1643
+                    ],
+                    [
+                        1693,
+                        1638
+                    ],
+                    [
+                        1696,
+                        1638
+                    ],
+                    [
+                        1704,
+                        1642
+                    ],
+                    [
+                        1714,
+                        1652
+                    ],
+                    [
+                        1712,
+                        1659
+                    ],
+                    [
+                        1707,
+                        1661
+                    ],
+                    [
+                        1698,
+                        1656
+                    ],
+                    [
+                        1690,
+                        1649
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639628,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.940Z",
+            "updatedAt": "2023-10-12T12:49:02.940Z",
+            "tags": [
+                {
+                    "id": 40485731,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.939Z",
+                    "updatedAt": "2023-10-12T12:49:02.939Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1676,
+                        1650
+                    ],
+                    [
+                        1682,
+                        1650
+                    ],
+                    [
+                        1698,
+                        1664
+                    ],
+                    [
+                        1693,
+                        1673
+                    ],
+                    [
+                        1690,
+                        1675
+                    ],
+                    [
+                        1677,
+                        1669
+                    ],
+                    [
+                        1670,
+                        1659
+                    ],
+                    [
+                        1671,
+                        1653
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639627,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.939Z",
+            "updatedAt": "2023-10-12T12:49:02.939Z",
+            "tags": [
+                {
+                    "id": 40485730,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.939Z",
+                    "updatedAt": "2023-10-12T12:49:02.939Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1649,
+                        1671
+                    ],
+                    [
+                        1663,
+                        1682
+                    ],
+                    [
+                        1666,
+                        1688
+                    ],
+                    [
+                        1661,
+                        1692
+                    ],
+                    [
+                        1652,
+                        1692
+                    ],
+                    [
+                        1644,
+                        1687
+                    ],
+                    [
+                        1642,
+                        1682
+                    ],
+                    [
+                        1640,
+                        1677
+                    ],
+                    [
+                        1641,
+                        1674
+                    ],
+                    [
+                        1645,
+                        1672
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639626,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.939Z",
+            "updatedAt": "2023-10-12T12:49:02.939Z",
+            "tags": [
+                {
+                    "id": 40485729,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.939Z",
+                    "updatedAt": "2023-10-12T12:49:02.939Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1634,
+                        1682
+                    ],
+                    [
+                        1641,
+                        1684
+                    ],
+                    [
+                        1647,
+                        1689
+                    ],
+                    [
+                        1651,
+                        1696
+                    ],
+                    [
+                        1648,
+                        1700
+                    ],
+                    [
+                        1636,
+                        1696
+                    ],
+                    [
+                        1629,
+                        1689
+                    ],
+                    [
+                        1631,
+                        1682
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639625,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.938Z",
+            "updatedAt": "2023-10-12T12:49:02.938Z",
+            "tags": [
+                {
+                    "id": 40485728,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.938Z",
+                    "updatedAt": "2023-10-12T12:49:02.938Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1623,
+                        1688
+                    ],
+                    [
+                        1634,
+                        1697
+                    ],
+                    [
+                        1636,
+                        1706
+                    ],
+                    [
+                        1629,
+                        1708
+                    ],
+                    [
+                        1622,
+                        1702
+                    ],
+                    [
+                        1620,
+                        1698
+                    ],
+                    [
+                        1618,
+                        1693
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639624,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.938Z",
+            "updatedAt": "2023-10-12T12:49:02.938Z",
+            "tags": [
+                {
+                    "id": 40485727,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.938Z",
+                    "updatedAt": "2023-10-12T12:49:02.938Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1598,
+                        1714
+                    ],
+                    [
+                        1597,
+                        1706
+                    ],
+                    [
+                        1604,
+                        1703
+                    ],
+                    [
+                        1613,
+                        1712
+                    ],
+                    [
+                        1615,
+                        1720
+                    ],
+                    [
+                        1608,
+                        1721
+                    ],
+                    [
+                        1605,
+                        1721
+                    ],
+                    [
+                        1606,
+                        1725
+                    ],
+                    [
+                        1602,
+                        1728
+                    ],
+                    [
+                        1596,
+                        1724
+                    ],
+                    [
+                        1591,
+                        1717
+                    ],
+                    [
+                        1591,
+                        1714
+                    ],
+                    [
+                        1594,
+                        1712
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639623,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.938Z",
+            "updatedAt": "2023-10-12T12:49:02.938Z",
+            "tags": [
+                {
+                    "id": 40485726,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.938Z",
+                    "updatedAt": "2023-10-12T12:49:02.938Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1584,
+                        1715
+                    ],
+                    [
+                        1596,
+                        1727
+                    ],
+                    [
+                        1588,
+                        1733
+                    ],
+                    [
+                        1582,
+                        1726
+                    ],
+                    [
+                        1581,
+                        1719
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639622,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.937Z",
+            "updatedAt": "2023-10-12T12:49:02.937Z",
+            "tags": [
+                {
+                    "id": 40485725,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.937Z",
+                    "updatedAt": "2023-10-12T12:49:02.937Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1566,
+                        1727
+                    ],
+                    [
+                        1571,
+                        1727
+                    ],
+                    [
+                        1578,
+                        1734
+                    ],
+                    [
+                        1579,
+                        1739
+                    ],
+                    [
+                        1577,
+                        1741
+                    ],
+                    [
+                        1572,
+                        1742
+                    ],
+                    [
+                        1567,
+                        1739
+                    ],
+                    [
+                        1566,
+                        1734
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639621,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.937Z",
+            "updatedAt": "2023-10-12T12:49:02.937Z",
+            "tags": [
+                {
+                    "id": 40485724,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.937Z",
+                    "updatedAt": "2023-10-12T12:49:02.937Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1566,
+                        1735
+                    ],
+                    [
+                        1562,
+                        1733
+                    ],
+                    [
+                        1558,
+                        1733
+                    ],
+                    [
+                        1558,
+                        1736
+                    ],
+                    [
+                        1561,
+                        1742
+                    ],
+                    [
+                        1567,
+                        1748
+                    ],
+                    [
+                        1572,
+                        1747
+                    ],
+                    [
+                        1573,
+                        1743
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639620,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.937Z",
+            "updatedAt": "2023-10-12T12:49:02.937Z",
+            "tags": [
+                {
+                    "id": 40485723,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.936Z",
+                    "updatedAt": "2023-10-12T12:49:02.936Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1552,
+                        1737
+                    ],
+                    [
+                        1556,
+                        1735
+                    ],
+                    [
+                        1563,
+                        1743
+                    ],
+                    [
+                        1564,
+                        1747
+                    ],
+                    [
+                        1564,
+                        1750
+                    ],
+                    [
+                        1559,
+                        1751
+                    ],
+                    [
+                        1555,
+                        1749
+                    ],
+                    [
+                        1553,
+                        1743
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639619,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.936Z",
+            "updatedAt": "2023-10-12T12:49:02.936Z",
+            "tags": [
+                {
+                    "id": 40485722,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.936Z",
+                    "updatedAt": "2023-10-12T12:49:02.936Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1539,
+                        1750
+                    ],
+                    [
+                        1540,
+                        1747
+                    ],
+                    [
+                        1540,
+                        1745
+                    ],
+                    [
+                        1542,
+                        1743
+                    ],
+                    [
+                        1544,
+                        1743
+                    ],
+                    [
+                        1549,
+                        1748
+                    ],
+                    [
+                        1552,
+                        1752
+                    ],
+                    [
+                        1551,
+                        1759
+                    ],
+                    [
+                        1549,
+                        1759
+                    ],
+                    [
+                        1548,
+                        1762
+                    ],
+                    [
+                        1543,
+                        1762
+                    ],
+                    [
+                        1541,
+                        1762
+                    ],
+                    [
+                        1538,
+                        1765
+                    ],
+                    [
+                        1534,
+                        1764
+                    ],
+                    [
+                        1532,
+                        1761
+                    ],
+                    [
+                        1530,
+                        1758
+                    ],
+                    [
+                        1530,
+                        1755
+                    ],
+                    [
+                        1531,
+                        1753
+                    ],
+                    [
+                        1534,
+                        1753
+                    ],
+                    [
+                        1536,
+                        1753
+                    ],
+                    [
+                        1537,
+                        1750
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639618,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.936Z",
+            "updatedAt": "2023-10-12T12:49:02.936Z",
+            "tags": [
+                {
+                    "id": 40485721,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.936Z",
+                    "updatedAt": "2023-10-12T12:49:02.936Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1525,
+                        1759
+                    ],
+                    [
+                        1532,
+                        1765
+                    ],
+                    [
+                        1529,
+                        1771
+                    ],
+                    [
+                        1528,
+                        1775
+                    ],
+                    [
+                        1523,
+                        1775
+                    ],
+                    [
+                        1520,
+                        1774
+                    ],
+                    [
+                        1519,
+                        1776
+                    ],
+                    [
+                        1515,
+                        1776
+                    ],
+                    [
+                        1512,
+                        1769
+                    ],
+                    [
+                        1514,
+                        1766
+                    ],
+                    [
+                        1516,
+                        1766
+                    ],
+                    [
+                        1517,
+                        1764
+                    ],
+                    [
+                        1520,
+                        1763
+                    ],
+                    [
+                        1521,
+                        1762
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639617,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.936Z",
+            "updatedAt": "2023-10-12T12:49:02.936Z",
+            "tags": [
+                {
+                    "id": 40485720,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.936Z",
+                    "updatedAt": "2023-10-12T12:49:02.936Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1499,
+                        1782
+                    ],
+                    [
+                        1499,
+                        1778
+                    ],
+                    [
+                        1501,
+                        1776
+                    ],
+                    [
+                        1503,
+                        1774
+                    ],
+                    [
+                        1504,
+                        1774
+                    ],
+                    [
+                        1505,
+                        1774
+                    ],
+                    [
+                        1506,
+                        1771
+                    ],
+                    [
+                        1514,
+                        1775
+                    ],
+                    [
+                        1511,
+                        1782
+                    ],
+                    [
+                        1511,
+                        1785
+                    ],
+                    [
+                        1507,
+                        1785
+                    ],
+                    [
+                        1506,
+                        1785
+                    ],
+                    [
+                        1502,
+                        1786
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639616,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.935Z",
+            "updatedAt": "2023-10-12T12:49:02.935Z",
+            "tags": [
+                {
+                    "id": 40485719,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.935Z",
+                    "updatedAt": "2023-10-12T12:49:02.935Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1496,
+                        1782
+                    ],
+                    [
+                        1398,
+                        1851
+                    ],
+                    [
+                        1397,
+                        1856
+                    ],
+                    [
+                        1408,
+                        1852
+                    ],
+                    [
+                        1429,
+                        1839
+                    ],
+                    [
+                        1442,
+                        1829
+                    ],
+                    [
+                        1450,
+                        1824
+                    ],
+                    [
+                        1456,
+                        1821
+                    ],
+                    [
+                        1478,
+                        1806
+                    ],
+                    [
+                        1501,
+                        1792
+                    ],
+                    [
+                        1501,
+                        1785
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639615,
+            "classId": 6479260,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.935Z",
+            "updatedAt": "2023-10-12T12:49:02.935Z",
+            "tags": [
+                {
+                    "id": 40485717,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.935Z",
+                    "updatedAt": "2023-10-12T12:49:02.935Z"
+                },
+                {
+                    "id": 40485718,
+                    "tagId": 22868,
+                    "name": "flat",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.935Z",
+                    "updatedAt": "2023-10-12T12:49:02.935Z"
+                }
+            ],
+            "classTitle": "road shoulder",
+            "points": {
+                "exterior": [
+                    [
+                        561,
+                        2197
+                    ],
+                    [
+                        1333,
+                        1887
+                    ],
+                    [
+                        1336,
+                        1887
+                    ],
+                    [
+                        1331,
+                        1892
+                    ],
+                    [
+                        1307,
+                        1904
+                    ],
+                    [
+                        1190,
+                        1968
+                    ],
+                    [
+                        287,
+                        2447
+                    ],
+                    [
+                        0,
+                        2447
+                    ],
+                    [
+                        0,
+                        2427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639614,
+            "classId": 6479260,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.934Z",
+            "updatedAt": "2023-10-12T12:49:02.934Z",
+            "tags": [
+                {
+                    "id": 40485715,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.934Z",
+                    "updatedAt": "2023-10-12T12:49:02.934Z"
+                },
+                {
+                    "id": 40485716,
+                    "tagId": 22868,
+                    "name": "flat",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.934Z",
+                    "updatedAt": "2023-10-12T12:49:02.934Z"
+                }
+            ],
+            "classTitle": "road shoulder",
+            "points": {
+                "exterior": [
+                    [
+                        1765,
+                        1953
+                    ],
+                    [
+                        1475,
+                        1900
+                    ],
+                    [
+                        1660,
+                        1942
+                    ],
+                    [
+                        2002,
+                        2016
+                    ],
+                    [
+                        2423,
+                        2112
+                    ],
+                    [
+                        3263,
+                        2300
+                    ],
+                    [
+                        3263,
+                        2247
+                    ],
+                    [
+                        2763,
+                        2152
+                    ],
+                    [
+                        1771,
+                        1952
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639613,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.933Z",
+            "updatedAt": "2023-10-12T12:49:02.933Z",
+            "tags": [
+                {
+                    "id": 40485714,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.933Z",
+                    "updatedAt": "2023-10-12T12:49:02.933Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        369,
+                        520
+                    ],
+                    [
+                        483,
+                        438
+                    ],
+                    [
+                        606,
+                        602
+                    ],
+                    [
+                        492,
+                        680
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639612,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.933Z",
+            "updatedAt": "2023-10-12T12:49:02.933Z",
+            "tags": [
+                {
+                    "id": 40485713,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.933Z",
+                    "updatedAt": "2023-10-12T12:49:02.933Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        656,
+                        787
+                    ],
+                    [
+                        602,
+                        836
+                    ],
+                    [
+                        675,
+                        931
+                    ],
+                    [
+                        765,
+                        883
+                    ],
+                    [
+                        713,
+                        783
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639611,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.933Z",
+            "updatedAt": "2023-10-12T12:49:02.933Z",
+            "tags": [
+                {
+                    "id": 40485712,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.933Z",
+                    "updatedAt": "2023-10-12T12:49:02.933Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        757,
+                        1044
+                    ],
+                    [
+                        774,
+                        1088
+                    ],
+                    [
+                        810,
+                        1117
+                    ],
+                    [
+                        875,
+                        1071
+                    ],
+                    [
+                        863,
+                        1033
+                    ],
+                    [
+                        837,
+                        1002
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639610,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.932Z",
+            "updatedAt": "2023-10-12T12:49:02.932Z",
+            "tags": [
+                {
+                    "id": 40485711,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.932Z",
+                    "updatedAt": "2023-10-12T12:49:02.932Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        924,
+                        1284
+                    ],
+                    [
+                        983,
+                        1244
+                    ],
+                    [
+                        1010,
+                        1282
+                    ],
+                    [
+                        959,
+                        1324
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639609,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.932Z",
+            "updatedAt": "2023-10-12T12:49:02.932Z",
+            "tags": [
+                {
+                    "id": 40485710,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.932Z",
+                    "updatedAt": "2023-10-12T12:49:02.932Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        983,
+                        1353
+                    ],
+                    [
+                        1033,
+                        1324
+                    ],
+                    [
+                        1054,
+                        1357
+                    ],
+                    [
+                        1001,
+                        1387
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639608,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.930Z",
+            "updatedAt": "2023-10-12T12:49:02.930Z",
+            "tags": [
+                {
+                    "id": 40485709,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.930Z",
+                    "updatedAt": "2023-10-12T12:49:02.930Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1023,
+                        1414
+                    ],
+                    [
+                        1067,
+                        1387
+                    ],
+                    [
+                        1086,
+                        1408
+                    ],
+                    [
+                        1044,
+                        1437
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639607,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.930Z",
+            "updatedAt": "2023-10-12T12:49:02.930Z",
+            "tags": [
+                {
+                    "id": 40485708,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.930Z",
+                    "updatedAt": "2023-10-12T12:49:02.930Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1084,
+                        1498
+                    ],
+                    [
+                        1122,
+                        1473
+                    ],
+                    [
+                        1138,
+                        1492
+                    ],
+                    [
+                        1099,
+                        1518
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639606,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.929Z",
+            "updatedAt": "2023-10-12T12:49:02.929Z",
+            "tags": [
+                {
+                    "id": 40485707,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.929Z",
+                    "updatedAt": "2023-10-12T12:49:02.929Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1110,
+                        1532
+                    ],
+                    [
+                        1120,
+                        1524
+                    ],
+                    [
+                        1138,
+                        1510
+                    ],
+                    [
+                        1150,
+                        1512
+                    ],
+                    [
+                        1151,
+                        1523
+                    ],
+                    [
+                        1129,
+                        1541
+                    ],
+                    [
+                        1119,
+                        1545
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639605,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.928Z",
+            "updatedAt": "2023-10-12T12:49:02.928Z",
+            "tags": [
+                {
+                    "id": 40485706,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.928Z",
+                    "updatedAt": "2023-10-12T12:49:02.928Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1133,
+                        1555
+                    ],
+                    [
+                        1145,
+                        1544
+                    ],
+                    [
+                        1158,
+                        1535
+                    ],
+                    [
+                        1165,
+                        1537
+                    ],
+                    [
+                        1171,
+                        1550
+                    ],
+                    [
+                        1151,
+                        1569
+                    ],
+                    [
+                        1137,
+                        1572
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639604,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.928Z",
+            "updatedAt": "2023-10-12T12:49:02.928Z",
+            "tags": [
+                {
+                    "id": 40485705,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.928Z",
+                    "updatedAt": "2023-10-12T12:49:02.928Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1162,
+                        1600
+                    ],
+                    [
+                        1171,
+                        1591
+                    ],
+                    [
+                        1185,
+                        1581
+                    ],
+                    [
+                        1192,
+                        1583
+                    ],
+                    [
+                        1194,
+                        1595
+                    ],
+                    [
+                        1171,
+                        1612
+                    ],
+                    [
+                        1166,
+                        1611
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639603,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.927Z",
+            "updatedAt": "2023-10-12T12:49:02.927Z",
+            "tags": [
+                {
+                    "id": 40485704,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.927Z",
+                    "updatedAt": "2023-10-12T12:49:02.927Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1174,
+                        1615
+                    ],
+                    [
+                        1195,
+                        1601
+                    ],
+                    [
+                        1201,
+                        1602
+                    ],
+                    [
+                        1203,
+                        1612
+                    ],
+                    [
+                        1182,
+                        1626
+                    ],
+                    [
+                        1176,
+                        1624
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639602,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.927Z",
+            "updatedAt": "2023-10-12T12:49:02.927Z",
+            "tags": [
+                {
+                    "id": 40485703,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.927Z",
+                    "updatedAt": "2023-10-12T12:49:02.927Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1185,
+                        1632
+                    ],
+                    [
+                        1198,
+                        1621
+                    ],
+                    [
+                        1208,
+                        1615
+                    ],
+                    [
+                        1213,
+                        1621
+                    ],
+                    [
+                        1209,
+                        1632
+                    ],
+                    [
+                        1197,
+                        1642
+                    ],
+                    [
+                        1187,
+                        1641
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639601,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.926Z",
+            "updatedAt": "2023-10-12T12:49:02.926Z",
+            "tags": [
+                {
+                    "id": 40485702,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.926Z",
+                    "updatedAt": "2023-10-12T12:49:02.926Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1205,
+                        1663
+                    ],
+                    [
+                        1203,
+                        1657
+                    ],
+                    [
+                        1208,
+                        1651
+                    ],
+                    [
+                        1224,
+                        1642
+                    ],
+                    [
+                        1229,
+                        1648
+                    ],
+                    [
+                        1228,
+                        1655
+                    ],
+                    [
+                        1212,
+                        1664
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639600,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.926Z",
+            "updatedAt": "2023-10-12T12:49:02.926Z",
+            "tags": [
+                {
+                    "id": 40485701,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.926Z",
+                    "updatedAt": "2023-10-12T12:49:02.926Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1213,
+                        1665
+                    ],
+                    [
+                        1231,
+                        1656
+                    ],
+                    [
+                        1233,
+                        1663
+                    ],
+                    [
+                        1232,
+                        1665
+                    ],
+                    [
+                        1241,
+                        1665
+                    ],
+                    [
+                        1239,
+                        1677
+                    ],
+                    [
+                        1228,
+                        1689
+                    ],
+                    [
+                        1220,
+                        1687
+                    ],
+                    [
+                        1220,
+                        1678
+                    ],
+                    [
+                        1213,
+                        1676
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639599,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.926Z",
+            "updatedAt": "2023-10-12T12:49:02.926Z",
+            "tags": [
+                {
+                    "id": 40485700,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.925Z",
+                    "updatedAt": "2023-10-12T12:49:02.925Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1232,
+                        1700
+                    ],
+                    [
+                        1235,
+                        1708
+                    ],
+                    [
+                        1242,
+                        1709
+                    ],
+                    [
+                        1243,
+                        1713
+                    ],
+                    [
+                        1246,
+                        1714
+                    ],
+                    [
+                        1259,
+                        1710
+                    ],
+                    [
+                        1258,
+                        1702
+                    ],
+                    [
+                        1255,
+                        1701
+                    ],
+                    [
+                        1254,
+                        1698
+                    ],
+                    [
+                        1253,
+                        1695
+                    ],
+                    [
+                        1252,
+                        1694
+                    ],
+                    [
+                        1249,
+                        1685
+                    ],
+                    [
+                        1240,
+                        1687
+                    ],
+                    [
+                        1234,
+                        1694
+                    ],
+                    [
+                        1233,
+                        1698
+                    ],
+                    [
+                        1232,
+                        1702
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639598,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.925Z",
+            "updatedAt": "2023-10-12T12:49:02.925Z",
+            "tags": [
+                {
+                    "id": 40485699,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.925Z",
+                    "updatedAt": "2023-10-12T12:49:02.925Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1251,
+                        1723
+                    ],
+                    [
+                        1255,
+                        1718
+                    ],
+                    [
+                        1262,
+                        1712
+                    ],
+                    [
+                        1267,
+                        1717
+                    ],
+                    [
+                        1271,
+                        1722
+                    ],
+                    [
+                        1274,
+                        1728
+                    ],
+                    [
+                        1269,
+                        1733
+                    ],
+                    [
+                        1262,
+                        1737
+                    ],
+                    [
+                        1260,
+                        1732
+                    ],
+                    [
+                        1255,
+                        1735
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639597,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.925Z",
+            "updatedAt": "2023-10-12T12:49:02.925Z",
+            "tags": [
+                {
+                    "id": 40485698,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.925Z",
+                    "updatedAt": "2023-10-12T12:49:02.925Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1266,
+                        1742
+                    ],
+                    [
+                        1272,
+                        1734
+                    ],
+                    [
+                        1277,
+                        1733
+                    ],
+                    [
+                        1278,
+                        1739
+                    ],
+                    [
+                        1281,
+                        1741
+                    ],
+                    [
+                        1283,
+                        1744
+                    ],
+                    [
+                        1281,
+                        1750
+                    ],
+                    [
+                        1277,
+                        1754
+                    ],
+                    [
+                        1274,
+                        1755
+                    ],
+                    [
+                        1271,
+                        1750
+                    ],
+                    [
+                        1268,
+                        1752
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639596,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.925Z",
+            "updatedAt": "2023-10-12T12:49:02.925Z",
+            "tags": [
+                {
+                    "id": 40485697,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.924Z",
+                    "updatedAt": "2023-10-12T12:49:02.924Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1277,
+                        1755
+                    ],
+                    [
+                        1285,
+                        1750
+                    ],
+                    [
+                        1287,
+                        1753
+                    ],
+                    [
+                        1290,
+                        1758
+                    ],
+                    [
+                        1291,
+                        1761
+                    ],
+                    [
+                        1287,
+                        1766
+                    ],
+                    [
+                        1283,
+                        1768
+                    ],
+                    [
+                        1280,
+                        1764
+                    ],
+                    [
+                        1277,
+                        1764
+                    ],
+                    [
+                        1278,
+                        1756
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639595,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.924Z",
+            "updatedAt": "2023-10-12T12:49:02.924Z",
+            "tags": [
+                {
+                    "id": 40485696,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.924Z",
+                    "updatedAt": "2023-10-12T12:49:02.924Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1292,
+                        1763
+                    ],
+                    [
+                        1284,
+                        1771
+                    ],
+                    [
+                        1285,
+                        1777
+                    ],
+                    [
+                        1289,
+                        1778
+                    ],
+                    [
+                        1290,
+                        1785
+                    ],
+                    [
+                        1295,
+                        1788
+                    ],
+                    [
+                        1298,
+                        1796
+                    ],
+                    [
+                        1301,
+                        1797
+                    ],
+                    [
+                        1302,
+                        1801
+                    ],
+                    [
+                        1306,
+                        1802
+                    ],
+                    [
+                        1306,
+                        1806
+                    ],
+                    [
+                        1309,
+                        1808
+                    ],
+                    [
+                        1310,
+                        1812
+                    ],
+                    [
+                        1312,
+                        1815
+                    ],
+                    [
+                        1337,
+                        1851
+                    ],
+                    [
+                        1340,
+                        1851
+                    ],
+                    [
+                        1340,
+                        1847
+                    ],
+                    [
+                        1329,
+                        1825
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639594,
+            "classId": 6479346,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.923Z",
+            "updatedAt": "2023-10-12T12:49:02.923Z",
+            "tags": [
+                {
+                    "id": 40485694,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.923Z",
+                    "updatedAt": "2023-10-12T12:49:02.923Z"
+                },
+                {
+                    "id": 40485695,
+                    "tagId": 22886,
+                    "name": "vehicle",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.923Z",
+                    "updatedAt": "2023-10-12T12:49:02.923Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        1371,
+                        1885
+                    ],
+                    [
+                        1370,
+                        1888
+                    ],
+                    [
+                        1371,
+                        1893
+                    ],
+                    [
+                        1368,
+                        1895
+                    ],
+                    [
+                        1367,
+                        1893
+                    ],
+                    [
+                        1367,
+                        1892
+                    ],
+                    [
+                        1350,
+                        1893
+                    ],
+                    [
+                        1350,
+                        1896
+                    ],
+                    [
+                        1348,
+                        1897
+                    ],
+                    [
+                        1347,
+                        1896
+                    ],
+                    [
+                        1347,
+                        1892
+                    ],
+                    [
+                        1348,
+                        1889
+                    ],
+                    [
+                        1349,
+                        1888
+                    ],
+                    [
+                        1349,
+                        1887
+                    ],
+                    [
+                        1351,
+                        1884
+                    ],
+                    [
+                        1351,
+                        1879
+                    ],
+                    [
+                        1350,
+                        1877
+                    ],
+                    [
+                        1351,
+                        1874
+                    ],
+                    [
+                        1352,
+                        1874
+                    ],
+                    [
+                        1353,
+                        1873
+                    ],
+                    [
+                        1354,
+                        1870
+                    ],
+                    [
+                        1362,
+                        1869
+                    ],
+                    [
+                        1367,
+                        1869
+                    ],
+                    [
+                        1370,
+                        1872
+                    ],
+                    [
+                        1370,
+                        1881
+                    ],
+                    [
+                        1373,
+                        1882
+                    ],
+                    [
+                        1374,
+                        1884
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639593,
+            "classId": 6479274,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.923Z",
+            "updatedAt": "2023-10-12T12:49:02.923Z",
+            "tags": [
+                {
+                    "id": 40485692,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.923Z",
+                    "updatedAt": "2023-10-12T12:49:02.923Z"
+                },
+                {
+                    "id": 40485693,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.923Z",
+                    "updatedAt": "2023-10-12T12:49:02.923Z"
+                }
+            ],
+            "classTitle": "lane marking - straight line",
+            "points": {
+                "exterior": [
+                    [
+                        364,
+                        2447
+                    ],
+                    [
+                        729,
+                        2247
+                    ],
+                    [
+                        1262,
+                        1931
+                    ],
+                    [
+                        1344,
+                        1890
+                    ],
+                    [
+                        1337,
+                        1889
+                    ],
+                    [
+                        1313,
+                        1898
+                    ],
+                    [
+                        1256,
+                        1926
+                    ],
+                    [
+                        1121,
+                        1994
+                    ],
+                    [
+                        849,
+                        2139
+                    ],
+                    [
+                        567,
+                        2285
+                    ],
+                    [
+                        255,
+                        2447
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639592,
+            "classId": 6479274,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.922Z",
+            "updatedAt": "2023-10-12T12:49:02.922Z",
+            "tags": [
+                {
+                    "id": 40485690,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.922Z",
+                    "updatedAt": "2023-10-12T12:49:02.922Z"
+                },
+                {
+                    "id": 40485691,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.922Z",
+                    "updatedAt": "2023-10-12T12:49:02.922Z"
+                }
+            ],
+            "classTitle": "lane marking - straight line",
+            "points": {
+                "exterior": [
+                    [
+                        2083,
+                        2031
+                    ],
+                    [
+                        3263,
+                        2288
+                    ],
+                    [
+                        3263,
+                        2320
+                    ],
+                    [
+                        2155,
+                        2062
+                    ],
+                    [
+                        1854,
+                        1993
+                    ],
+                    [
+                        1557,
+                        1925
+                    ],
+                    [
+                        1481,
+                        1907
+                    ],
+                    [
+                        1451,
+                        1898
+                    ],
+                    [
+                        1456,
+                        1897
+                    ],
+                    [
+                        1497,
+                        1906
+                    ],
+                    [
+                        1539,
+                        1914
+                    ],
+                    [
+                        1641,
+                        1935
+                    ],
+                    [
+                        1801,
+                        1971
+                    ],
+                    [
+                        1929,
+                        1998
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639591,
+            "classId": 6479273,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.922Z",
+            "updatedAt": "2023-10-12T12:49:02.922Z",
+            "tags": [
+                {
+                    "id": 40485688,
+                    "tagId": 22873,
+                    "name": "marking",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.921Z",
+                    "updatedAt": "2023-10-12T12:49:02.921Z"
+                },
+                {
+                    "id": 40485689,
+                    "tagId": 22874,
+                    "name": "continuous",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.921Z",
+                    "updatedAt": "2023-10-12T12:49:02.921Z"
+                }
+            ],
+            "classTitle": "lane marking - dashed line",
+            "points": {
+                "exterior": [
+                    [
+                        1955,
+                        2271
+                    ],
+                    [
+                        1907,
+                        2280
+                    ],
+                    [
+                        1629,
+                        2076
+                    ],
+                    [
+                        1478,
+                        1965
+                    ],
+                    [
+                        1436,
+                        1935
+                    ],
+                    [
+                        1409,
+                        1916
+                    ],
+                    [
+                        1390,
+                        1902
+                    ],
+                    [
+                        1379,
+                        1897
+                    ],
+                    [
+                        1388,
+                        1897
+                    ],
+                    [
+                        1397,
+                        1901
+                    ],
+                    [
+                        1414,
+                        1910
+                    ],
+                    [
+                        1429,
+                        1921
+                    ],
+                    [
+                        1451,
+                        1935
+                    ],
+                    [
+                        1548,
+                        1997
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639590,
+            "classId": 6479346,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.921Z",
+            "updatedAt": "2023-10-12T12:49:02.921Z",
+            "tags": [
+                {
+                    "id": 40485686,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.921Z",
+                    "updatedAt": "2023-10-12T12:49:02.921Z"
+                },
+                {
+                    "id": 40485687,
+                    "tagId": 22886,
+                    "name": "vehicle",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.921Z",
+                    "updatedAt": "2023-10-12T12:49:02.921Z"
+                }
+            ],
+            "classTitle": "car",
+            "points": {
+                "exterior": [
+                    [
+                        1452,
+                        1895
+                    ],
+                    [
+                        1453,
+                        1898
+                    ],
+                    [
+                        1452,
+                        1902
+                    ],
+                    [
+                        1448,
+                        1900
+                    ],
+                    [
+                        1447,
+                        1897
+                    ],
+                    [
+                        1424,
+                        1897
+                    ],
+                    [
+                        1423,
+                        1901
+                    ],
+                    [
+                        1421,
+                        1902
+                    ],
+                    [
+                        1417,
+                        1901
+                    ],
+                    [
+                        1417,
+                        1896
+                    ],
+                    [
+                        1416,
+                        1890
+                    ],
+                    [
+                        1416,
+                        1883
+                    ],
+                    [
+                        1419,
+                        1880
+                    ],
+                    [
+                        1419,
+                        1875
+                    ],
+                    [
+                        1422,
+                        1869
+                    ],
+                    [
+                        1423,
+                        1862
+                    ],
+                    [
+                        1435,
+                        1860
+                    ],
+                    [
+                        1449,
+                        1861
+                    ],
+                    [
+                        1454,
+                        1868
+                    ],
+                    [
+                        1455,
+                        1887
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639589,
+            "classId": 6479250,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.920Z",
+            "updatedAt": "2023-10-12T12:49:02.920Z",
+            "tags": [
+                {
+                    "id": 40485684,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.920Z",
+                    "updatedAt": "2023-10-12T12:49:02.920Z"
+                },
+                {
+                    "id": 40485685,
+                    "tagId": 22867,
+                    "name": "barrier",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.920Z",
+                    "updatedAt": "2023-10-12T12:49:02.920Z"
+                }
+            ],
+            "classTitle": "wall",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1948
+                    ],
+                    [
+                        1327,
+                        1880
+                    ],
+                    [
+                        1335,
+                        1880
+                    ],
+                    [
+                        1335,
+                        1891
+                    ],
+                    [
+                        1263,
+                        1917
+                    ],
+                    [
+                        1132,
+                        1971
+                    ],
+                    [
+                        960,
+                        2041
+                    ],
+                    [
+                        835,
+                        2093
+                    ],
+                    [
+                        654,
+                        2168
+                    ],
+                    [
+                        0,
+                        2439
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639588,
+            "classId": 6479243,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.920Z",
+            "updatedAt": "2023-10-12T12:49:02.920Z",
+            "tags": [
+                {
+                    "id": 40485682,
+                    "tagId": 22866,
+                    "name": "construction",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.920Z",
+                    "updatedAt": "2023-10-12T12:49:02.920Z"
+                },
+                {
+                    "id": 40485683,
+                    "tagId": 22867,
+                    "name": "barrier",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.920Z",
+                    "updatedAt": "2023-10-12T12:49:02.920Z"
+                }
+            ],
+            "classTitle": "fence",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        1562
+                    ],
+                    [
+                        1261,
+                        1852
+                    ],
+                    [
+                        1338,
+                        1876
+                    ],
+                    [
+                        1338,
+                        1885
+                    ],
+                    [
+                        1323,
+                        1882
+                    ],
+                    [
+                        1237,
+                        1885
+                    ],
+                    [
+                        806,
+                        1909
+                    ],
+                    [
+                        315,
+                        1934
+                    ],
+                    [
+                        0,
+                        1957
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639587,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.919Z",
+            "updatedAt": "2023-10-12T12:49:02.919Z",
+            "tags": [
+                {
+                    "id": 40485681,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.919Z",
+                    "updatedAt": "2023-10-12T12:49:02.919Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        1993,
+                        1969
+                    ],
+                    [
+                        1989,
+                        1963
+                    ],
+                    [
+                        1990,
+                        1958
+                    ],
+                    [
+                        1997,
+                        1956
+                    ],
+                    [
+                        2002,
+                        1958
+                    ],
+                    [
+                        2002,
+                        1964
+                    ],
+                    [
+                        1996,
+                        1970
+                    ],
+                    [
+                        1995,
+                        1970
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639586,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.919Z",
+            "updatedAt": "2023-10-12T12:49:02.919Z",
+            "tags": [
+                {
+                    "id": 40485680,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.919Z",
+                    "updatedAt": "2023-10-12T12:49:02.919Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        1698,
+                        1925
+                    ],
+                    [
+                        1694,
+                        1923
+                    ],
+                    [
+                        1698,
+                        1919
+                    ],
+                    [
+                        1702,
+                        1920
+                    ],
+                    [
+                        1702,
+                        1925
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639585,
+            "classId": 6479315,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.918Z",
+            "updatedAt": "2023-10-12T12:49:02.918Z",
+            "tags": [
+                {
+                    "id": 40485679,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.918Z",
+                    "updatedAt": "2023-10-12T12:49:02.918Z"
+                }
+            ],
+            "classTitle": "pothole",
+            "points": {
+                "exterior": [
+                    [
+                        1792,
+                        1962
+                    ],
+                    [
+                        1792,
+                        1952
+                    ],
+                    [
+                        1799,
+                        1949
+                    ],
+                    [
+                        1801,
+                        1958
+                    ],
+                    [
+                        1801,
+                        1962
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639584,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.917Z",
+            "updatedAt": "2023-10-12T12:49:02.917Z",
+            "tags": [
+                {
+                    "id": 40485678,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.916Z",
+                    "updatedAt": "2023-10-12T12:49:02.916Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1529,
+                        1876
+                    ],
+                    [
+                        1525,
+                        1872
+                    ],
+                    [
+                        1527,
+                        1856
+                    ],
+                    [
+                        1531,
+                        1857
+                    ],
+                    [
+                        1531,
+                        1871
+                    ],
+                    [
+                        1529,
+                        1875
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639583,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.915Z",
+            "updatedAt": "2023-10-12T12:49:02.915Z",
+            "tags": [
+                {
+                    "id": 40485677,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.915Z",
+                    "updatedAt": "2023-10-12T12:49:02.915Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1245,
+                        1790
+                    ],
+                    [
+                        1245,
+                        1807
+                    ],
+                    [
+                        1256,
+                        1808
+                    ],
+                    [
+                        1257,
+                        1791
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639582,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.915Z",
+            "updatedAt": "2023-10-12T12:49:02.915Z",
+            "tags": [
+                {
+                    "id": 40485676,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.914Z",
+                    "updatedAt": "2023-10-12T12:49:02.914Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        1592,
+                        1910
+                    ],
+                    [
+                        1588,
+                        1910
+                    ],
+                    [
+                        1588,
+                        1906
+                    ],
+                    [
+                        1591,
+                        1905
+                    ],
+                    [
+                        1593,
+                        1907
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639581,
+            "classId": 6479360,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.914Z",
+            "updatedAt": "2023-10-12T12:49:02.914Z",
+            "tags": [
+                {
+                    "id": 40485675,
+                    "tagId": 22887,
+                    "name": "void",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.914Z",
+                    "updatedAt": "2023-10-12T12:49:02.914Z"
+                }
+            ],
+            "classTitle": "static",
+            "points": {
+                "exterior": [
+                    [
+                        1530,
+                        1902
+                    ],
+                    [
+                        1533,
+                        1898
+                    ],
+                    [
+                        1535,
+                        1902
+                    ],
+                    [
+                        1533,
+                        1903
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 72639580,
+            "classId": 6479322,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "cx@datasetninja.com",
+            "createdAt": "2023-10-12T12:49:02.914Z",
+            "updatedAt": "2023-10-12T12:49:02.914Z",
+            "tags": [
+                {
+                    "id": 40485674,
+                    "tagId": 22881,
+                    "name": "object",
+                    "value": null,
+                    "labelerLogin": "cx@datasetninja.com",
+                    "createdAt": "2023-10-12T12:49:02.914Z",
+                    "updatedAt": "2023-10-12T12:49:02.914Z"
+                }
+            ],
+            "classTitle": "street light",
+            "points": {
+                "exterior": [
+                    [
+                        1314,
+                        1849
+                    ],
+                    [
+                        1316,
+                        1845
+                    ],
+                    [
+                        1319,
+                        1845
+                    ],
+                    [
+                        1320,
+                        1851
+                    ],
+                    [
+                        1317,
+                        1853
+                    ],
+                    [
+                        1315,
+                        1853
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
