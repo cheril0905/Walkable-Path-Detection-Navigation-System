@@ -6,18 +6,56 @@
 [![Dataset](https://img.shields.io/badge/Dataset-Mapillary%20Vistas-orange.svg)](https://www.mapillary.com/dataset/vistas)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-An end-to-end Computer Vision & Deep Learning solution for **Walkable Path Detection and Urban Navigation**. Utilizing **DeepLabV3 with a ResNet-50 backbone** trained on the **Mapillary Vistas** dataset (124 semantic classes), this system segments road and street scenes, maps class predictions to walkability scores, generates real-time heatmaps, and identifies walkable surface regions for autonomous navigation and visual assistance.
+An end-to-end Computer Vision & Deep Learning system for **Walkable Path Detection and Real-Time Urban Navigation**. Built using **DeepLabV3 with a ResNet-50 backbone** trained on the **Mapillary Vistas dataset** (124 semantic classes), this system segments complex street scenes, dynamically maps class predictions to walkability scores, generates binary walkability heatmaps, overlays walkable path boundaries in real-time, and assists autonomous robots or visually-impaired individuals.
 
 ---
 
-## 📌 Features
+## 📸 Output & Model Implementation
 
-- **Semantic Segmentation Pipeline**: Fine-tuned DeepLabV3 architecture with a ResNet-50 backbone to perform pixel-level multi-class segmentation on complex street-level imagery.
-- **124-Class Compact Remapping**: Maps original Mapillary Vistas class IDs to compact IDs (0–123) for efficient GPU tensor processing and loss calculation.
-- **Walkability Score Integration**: Utilizes a customized `walkability_meta.json` taxonomy mapping binary walkability indices ($1.0$ for walkable areas like sidewalks, crosswalks, footways, pedestrian areas, curb cuts, driveways; $0.0$ for non-walkable obstacles, vehicles, vegetation, sky, etc.).
-- **Heatmap & Overlay Generation**: Converts raw segmentation masks into binary walkability heatmaps and RGB mask overlays for visual verification.
-- **Textual Walkable Object Summaries**: Automatically detects and logs present walkable terrain features into output text files (e.g., `walkable_objects_output.txt`).
-- **Real-World Video & Image Inference**: Supports evaluation on real-world photo samples and video feeds.
+### 1. Real-Time Overlay & Navigation Visualizer
+Input street scenes are processed to generate green path overlays identifying walkable terrain, along with real-time text indicators listing detected walkable objects (e.g., `curb`, `sidewalk`, `crosswalk`) and navigation status indicators.
+
+| Input Image & Walkable Overlay | Real-Time Navigation Overlay Window |
+| :---: | :---: |
+| ![Input vs Overlay](assets/input_vs_overlay.png) | ![Realtime Visualizer](assets/realtime_navigation.png) |
+> *Note: Place your output screenshots in `assets/input_vs_overlay.png` and `assets/realtime_navigation.png` to render them above.*
+
+### 2. Multi-Stage Segmentation Pipeline
+The model processes input imagery through a 3-stage visual pipeline:
+
+![Output Pipeline](assets/output_pipeline.png)
+
+1. **Input RGB Image**: Raw camera image captured in complex street environments.
+2. **Predicted RGB Semantic Mask**: Pixel-level multi-class semantic segmentation identifying 124 urban scene classes (curb, ground, road, sidewalk, traffic island, vehicles, vegetation, etc.).
+3. **Binary Walkability Mask**: Converts the semantic mask into a binary map using custom walkability rules (**White = Walkable (1.0)**, **Black = Non-Walkable (0.0)**).
+
+> **💡 Key Insight**: Walkability mapping is **fully dynamic**. You can adjust which classes are considered walkable in `walkability_meta.json` at any time, and the system adapts instantly **without requiring model retraining**.
+
+---
+
+## 📥 Model Weights & Download Links
+
+Due to GitHub's **100 MB single file size limit**, the pre-trained PyTorch weight file `deeplabv3_resnet50_trained.pth` (~168.5 MB) is hosted externally.
+
+| Resource | Description | Size | Download Link |
+| :--- | :--- | :--- | :--- |
+| **DeepLabV3 Model Checkpoint** | Fine-tuned PyTorch weight (`deeplabv3_resnet50_trained.pth`) | ~168.5 MB | 🔗 **[Click Here to Download Model Weight](YOUR_DOWNLOAD_LINK_HERE)** |
+| **Mapillary Vistas Dataset** | Official street scene segmentation dataset | Varies | 🔗 **[Mapillary Vistas Official Site](https://www.mapillary.com/dataset/vistas)** |
+
+> **Setup Note**: Download `deeplabv3_resnet50_trained.pth` from the link above and place it in the `mapillary-vistas/` directory:
+> ```text
+> mapillary-vistas/deeplabv3_resnet50_trained.pth
+> ```
+
+---
+
+## 📌 Key Features
+
+- **DeepLabV3 + ResNet-50 Architecture**: Atrous Spatial Pyramid Pooling (ASPP) extracts multi-scale contextual features for high-resolution semantic segmentation.
+- **124-Class Compact Remapping**: Maps Mapillary Vistas class IDs to compact indices (0–123) for fast GPU tensor calculation.
+- **Dynamic Walkability Taxonomy**: Uses `walkability_meta.json` to assign score $1.0$ to walkable terrain (sidewalks, crosswalks, footways, curb cuts, driveways) and $0.0$ to obstacles.
+- **Textual Walkable Feature Logging**: Automatically exports detected walkable objects to a text file (e.g., `walkable_objects_output.txt`).
+- **Real-Time Video & Photo Inference**: Compatible with static photos and continuous video streams (`.mp4`).
 
 ---
 
@@ -25,138 +63,111 @@ An end-to-end Computer Vision & Deep Learning solution for **Walkable Path Detec
 
 ```text
 .
+├── assets/                     # Place your output screenshot images here (.png / .jpg)
+│   ├── input_vs_overlay.png
+│   ├── realtime_navigation.png
+│   └── output_pipeline.png
 ├── mapillary-vistas/
-│   ├── meta.json               # Mapillary Vistas dataset class definitions (124 classes)
-│   ├── walkability_meta.json   # Walkability scores per class ID
-│   ├── LICENSE.md              # Dataset license information
-│   └── README.md               # Dataset overview
-├── model.ipynb                 # Training notebook: Dataset loader, model initialization, training loop & saving
-├── usage.ipynb                 # Inference notebook: Loading weights, predicting masks, generating heatmaps & textual reports
-├── output.ipynb                # Visualization & evaluation notebook: RGB overlays & walkability masks
-├── .gitignore                  # Git ignore rules (excludes large weights, datasets, real/ and rvids/)
+│   ├── meta.json               # Mapillary Vistas 124-class metadata
+│   ├── walkability_meta.json   # Dynamic walkability scores per class ID
+│   ├── LICENSE.md              # Dataset license
+│   └── README.md
+├── model.ipynb                 # Training notebook: DataLoaders, model training & weight saving
+├── usage.ipynb                 # Inference notebook: Mask prediction, heatmap generation & text log
+├── output.ipynb                # Visualization notebook: RGB overlays & walkability masks
+├── .gitignore                  # Git rules (excludes heavy weights, datasets, real/ & rvids/)
 └── README.md                   # Project documentation
 ```
 
-> **Note**: Heavy directories (`real/`, `rvids/`, dataset images under `mapillary-vistas/training/`, `validation/`, `testing/`) and model weights (`*.pth`) are excluded via `.gitignore` to keep the repository lightweight.
-
 ---
 
-## 🚨 Handling Large Files (> 100 MB)
+## 💻 How to Run This Model on Your PC
 
-GitHub has a strict **100 MB single file size limit**. The trained PyTorch model checkpoint file `deeplabv3_resnet50_trained.pth` is approximately **168.5 MB**, which exceeds this limit.
+Follow this step-by-step guide to run training or inference on your local machine:
 
-### Recommended Solution (Option A): External Model Storage
-1. Upload `deeplabv3_resnet50_trained.pth` to a cloud storage platform (Google Drive, OneDrive, Hugging Face Hub, or GitHub Releases).
-2. Place the downloaded `.pth` file inside the `mapillary-vistas/` directory before running inference:
-   ```text
-   mapillary-vistas/deeplabv3_resnet50_trained.pth
-   ```
-3. Update the download link in this README for collaborators or users.
-
-### Alternative Solution (Option B): Git LFS (Large File Storage)
-If you prefer pushing the model file directly using **Git LFS**:
-```bash
-# Install Git LFS
-git lfs install
-
-# Track PyTorch model files
-git lfs track "mapillary-vistas/deeplabv3_resnet50_trained.pth"
-git lfs track "*.pth"
-
-# Add .gitattributes to git
-git add .gitattributes
-```
-
----
-
-## ⚡ Prerequisites & Installation
-
-### 1. Clone the Repository
+### Step 1: Clone the Repository
+Open Terminal or Command Prompt and run:
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
 cd YOUR_REPOSITORY_NAME
 ```
 
-### 2. Environment Setup
-Create a virtual environment and activate it:
+### Step 2: Set Up Python Environment
+Recommended Python version: **3.8, 3.9, 3.10, or 3.11**.
 
 ```bash
-# Windows
+# Windows (Command Prompt / PowerShell)
 python -m venv venv
 venv\Scripts\activate
 
-# Linux / macOS
+# macOS / Linux
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 3. Install Dependencies
-Install PyTorch and essential computer vision libraries:
+### Step 3: Install Required Dependencies
+Install PyTorch (with CUDA support if you have an NVIDIA GPU) and computer vision packages:
 
 ```bash
+# Install PyTorch (CUDA 11.8 / GPU enabled)
 pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu118
-pip install numpy pillow matplotlib opencv-python tqdm
+
+# Or for CPU-only:
+# pip install torch torchvision
+
+# Install required helper packages
+pip install numpy pillow matplotlib opencv-python tqdm jupyter
 ```
 
----
+### Step 4: Add the Model Weights
+1. Download `deeplabv3_resnet50_trained.pth` from the [Download Link](YOUR_DOWNLOAD_LINK_HERE).
+2. Move/copy `deeplabv3_resnet50_trained.pth` inside the `mapillary-vistas/` folder:
+   ```text
+   YOUR_REPOSITORY_NAME/mapillary-vistas/deeplabv3_resnet50_trained.pth
+   ```
 
-## 🚀 Model Architecture & Training Summary
-
-- **Backbone**: ResNet-50 (Pre-trained on ImageNet)
-- **Segmentation Head**: DeepLabV3 with Atrous Spatial Pyramid Pooling (ASPP)
-- **Classifier Output**: 124-channel output convolution (`Conv2d(256, 124, kernel_size=1)`)
-- **Loss Function**: `CrossEntropyLoss()`
-- **Optimizer**: Adam (`lr=1e-4`)
-- **Training Epochs**: 10 Epochs
-- **Final Performance**:
-  - Epoch 1 Loss: Train `1.9556` | Val `1.2647`
-  - Epoch 10 Loss: Train `0.4669` | Val `0.6568`
-
----
-
-## 💻 How to Run
-
-### 1. Training the Model (`model.ipynb`)
-Run `model.ipynb` to load training images/masks, process RGB-to-compact ID remappings, execute training over 10 epochs, and output `deeplabv3_resnet50_trained.pth`.
-
-### 2. Running Inference (`usage.ipynb`)
-Open `usage.ipynb` to:
-- Load the pre-trained `deeplabv3_resnet50_trained.pth` model.
-- Execute inference on an image from the dataset or custom input.
-- Generate binary walkability heatmaps.
-- Export detected walkable class names to `walkable_objects_output.txt`.
-
-### 3. Visualizing Results (`output.ipynb`)
-Run `output.ipynb` to render RGB mask overlays on original input images to visually verify path boundaries.
-
----
-
-## 📤 Adding & Pushing to GitHub
-
-Follow these steps to initialize git, ignore heavy files, and push your repository to GitHub:
-
-### Step 1: Initialize Git & Stage Files
+### Step 5: Launch Jupyter Notebooks
+Start Jupyter Notebook:
 ```bash
-git init
+jupyter notebook
+```
+
+- **To run Inference on your images/videos**: Open `usage.ipynb` and run all cells.
+- **To view Visual Overlays & Masks**: Open `output.ipynb` and run all cells.
+- **To Train/Fine-Tune the Model**: Open `model.ipynb` and run all cells (requires GPU for faster training).
+
+---
+
+## 🖼️ How to Add Your Output Screenshots
+
+1. Save your output screenshots inside the `assets/` folder in your project root:
+   - `assets/input_vs_overlay.png`
+   - `assets/realtime_navigation.png`
+   - `assets/output_pipeline.png`
+2. Commit and push the `assets/` folder to GitHub:
+   ```bash
+   git add assets/
+   git commit -m "Add output screenshot images"
+   git push
+   ```
+3. GitHub will automatically display your images in the `README.md`!
+
+---
+
+## 📤 Commands for Adding & Pushing to GitHub
+
+```bash
+# 1. Add modified files
 git add .
-```
 
-### Step 2: Check Staged Files
-Verify that `real/`, `rvids/`, and `*.pth` are **NOT** staged:
-```bash
-git status
-```
+# 2. Commit changes
+git commit -m "Update README with model details, output images & setup guide"
 
-### Step 3: Commit Changes
-```bash
-git commit -m "Initial commit: Walkable Area Path Segmentation System"
-```
-
-### Step 4: Link Remote Repository & Push
-Replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME` with your actual GitHub details:
-```bash
-git branch -M main
+# 3. Add remote repository (replace with your GitHub URL)
 git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+
+# 4. Push to GitHub
+git branch -M main
 git push -u origin main
 ```
 
