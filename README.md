@@ -120,7 +120,7 @@ pip install numpy pillow matplotlib opencv-python tqdm jupyter
 ```
 
 ### Step 4: Add the Model Weights
-1. Download `deeplabv3_resnet50_trained.pth` from the [Download Link](YOUR_DOWNLOAD_LINK_HERE).
+1. Download `deeplabv3_resnet50_trained.pth` from the [Download Link](https://drive.google.com/file/d/1DxtoVc71YiLH6n4qKxncQScvOETH3HLh/view?usp=sharing).
 2. Move/copy `deeplabv3_resnet50_trained.pth` inside the `mapillary-vistas/` folder:
    ```text
    YOUR_REPOSITORY_NAME/mapillary-vistas/deeplabv3_resnet50_trained.pth
