@@ -1,0 +1,48 @@
+# Large model weights (>100MB file limit for GitHub)
+*.pth
+*.pt
+*.bin
+*.onnx
+*.safetensors
+mapillary-vistas/deeplabv3_resnet50_trained.pth
+
+# Excluded folders as requested
+real/
+rvids/
+
+# Mapillary Vistas dataset images and masks
+mapillary-vistas/training/
+mapillary-vistas/validation/
+mapillary-vistas/testing/
+
+# Jupyter Notebook checkpoints & Cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# OS & IDE generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
